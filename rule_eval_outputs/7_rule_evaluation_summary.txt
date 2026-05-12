@@ -1,0 +1,41 @@
+Rule evaluation summary
+============================================================
+
+Input file: 6_JSONL_component_normalized.jsonl
+Total evaluated rows: 47522
+
+Brand counts
+------------------------------------------------------------
+hm: 41077
+uniqlo: 6445
+
+Parent category counts
+------------------------------------------------------------
+bottoms: 12076
+overall: 7664
+tops: 22051
+underwear: 5731
+
+Rule violation summary
+------------------------------------------------------------
+S1 | Restricted library | n_violate=21235 | share_violate=0.446846
+S1 | Baseline library | n_violate=17303 | share_violate=0.364105
+S1 | Extended library | n_violate=13413 | share_violate=0.282248
+S2 | Fixed | n_violate=9504 | share_violate=0.199992
+S3 | 10% threshold | n_violate=14984 | share_violate=0.315307
+S3 | 5% threshold | n_violate=8229 | share_violate=0.173162
+S3 | 3% threshold | n_violate=4463 | share_violate=0.093914
+S4 | Exact black | n_violate=6515 | share_violate=0.137094
+S4 | Contains 'black' | n_violate=8555 | share_violate=0.180022
+S5 | Dominant-material mismatch | n_violate=4090 | share_violate=0.086065
+S5 | >5% concealed-material mismatch | n_violate=3878 | share_violate=0.081604
+S5 | Any hidden layer | n_violate=9133 | share_violate=0.192185
+
+Any-barrier summary
+------------------------------------------------------------
+Lower-bound any-barrier | n_with_any_barrier=21409 | share_with_any_barrier=0.450507
+Lower-bound conditions | S1=Extended library | S2=Fixed | S3=3% threshold | S4=Exact black | S5=>5% concealed-material mismatch
+Baseline any-barrier | n_with_any_barrier=23908 | share_with_any_barrier=0.503093
+Baseline conditions | S1=Baseline library | S2=Fixed | S3=5% threshold | S4=Exact black | S5=>5% concealed-material mismatch
+Upper-bound any-barrier | n_with_any_barrier=30432 | share_with_any_barrier=0.640377
+Upper-bound conditions | S1=Restricted library | S2=Fixed | S3=10% threshold | S4=Contains 'black' | S5=Any hidden layer

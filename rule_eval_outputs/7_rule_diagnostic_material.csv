@@ -1,0 +1,2178 @@
+﻿rule,scenario,material_diag,n
+S1,Baseline library,elastane+nylon,2258
+S1,Baseline library,elastane+polyester+viscose,1694
+S1,Baseline library,cotton+elastane+polyester,1564
+S1,Baseline library,nylon+viscose,1081
+S1,Baseline library,acrylic+elastane+polyester+wool,655
+S1,Baseline library,cotton+linen,525
+S1,Baseline library,cotton+elastane+nylon,505
+S1,Baseline library,linen+viscose,475
+S1,Baseline library,cotton+viscose,418
+S1,Baseline library,cotton+elastane+nylon+polyester,379
+S1,Baseline library,cotton+lyocell,371
+S1,Baseline library,linen,364
+S1,Baseline library,nylon+polyester+viscose,333
+S1,Baseline library,cotton+nylon,283
+S1,Baseline library,polyester+wool,250
+S1,Baseline library,acrylic+polyester+wool,244
+S1,Baseline library,elastane+nylon+wool,238
+S1,Baseline library,cotton+polyester+viscose,225
+S1,Baseline library,cotton+elastane+viscose,221
+S1,Baseline library,acrylic+nylon+polyester+wool,197
+S1,Baseline library,nylon+polyester,172
+S1,Baseline library,elastane+polyester+wool,165
+S1,Baseline library,elastane+nylon+polyester,161
+S1,Baseline library,elastane+nylon+viscose,155
+S1,Baseline library,acrylic+elastane+nylon+polyester+wool,151
+S1,Baseline library,cotton+elastane+elastomultiester,150
+S1,Baseline library,acrylic+elastane+polyester+viscose,147
+S1,Baseline library,cotton+linen+viscose,124
+S1,Baseline library,cotton+elastane+lyocell™ modal,119
+S1,Baseline library,elastomultiester+polyester,117
+S1,Baseline library,elastane+viscose,116
+S1,Baseline library,acrylic+cotton+elastane+nylon+polyester,108
+S1,Baseline library,lyocell+polyester,106
+S1,Baseline library,lyocell+nylon,94
+S1,Baseline library,nylon+polyester+wool,85
+S1,Baseline library,cotton+wool,76
+S1,Baseline library,linen+polyester+viscose,72
+S1,Baseline library,linen+nylon+viscose,64
+S1,Baseline library,elastane+polyester+viscose+wool,62
+S1,Baseline library,polyester+viscose+wool,61
+S1,Baseline library,australian wool,59
+S1,Baseline library,acrylic+polyester,57
+S1,Baseline library,nylon+wool,57
+S1,Baseline library,lyocell,56
+S1,Baseline library,cotton+elastomultiester+polyester,54
+S1,Baseline library,cotton+modal,54
+S1,Baseline library,acrylic+cotton+elastane+polyester,52
+S1,Baseline library,polyurethane,49
+S1,Baseline library,elastane+metallised_fibre+nylon,48
+S1,Baseline library,acrylic+cotton+elastane+nylon+polyester+viscose,46
+S1,Baseline library,elastane+lyocell,45
+S1,Baseline library,modal+polyester,44
+S1,Baseline library,metallised_fibre+viscose,43
+S1,Baseline library,acrylic+cotton+polyester,42
+S1,Baseline library,cotton+elastane+modal,41
+S1,Baseline library,elastane+nylon+polyester+wool,41
+S1,Baseline library,acrylic+elastane+viscose+wool,40
+S1,Baseline library,cotton+elastane+polyester+viscose,38
+S1,Baseline library,cotton+nylon+polyester,38
+S1,Baseline library,acrylic+viscose,37
+S1,Baseline library,linen+lyocell,36
+S1,Baseline library,cotton+elastane+linen,35
+S1,Baseline library,cupro+elastane+nylon,35
+S1,Baseline library,metallised_fibre+polyester,35
+S1,Baseline library,acrylic+nylon,34
+S1,Baseline library,acrylic+nylon+polyester,33
+S1,Baseline library,acrylic+nylon+polyester+viscose+wool,33
+S1,Baseline library,cotton+silk,33
+S1,Baseline library,elastane+lyocell+polyester,33
+S1,Baseline library,acrylic+elastane+nylon+viscose,32
+S1,Baseline library,polyester+unspecified_material+wool,32
+S1,Baseline library,acrylic+elastane+modal+nylon+viscose,30
+S1,Baseline library,cupro+elastane+polyester,30
+S1,Baseline library,elastane+nylon+polyester+viscose,30
+S1,Baseline library,sheep leather,30
+S1,Baseline library,acetate,29
+S1,Baseline library,linen+lyocell+nylon,28
+S1,Baseline library,elastane+modal,27
+S1,Baseline library,cotton+elastane+elastodiene+nylon,26
+S1,Baseline library,elastane+modal+polyester,26
+S1,Baseline library,linen+polyester,26
+S1,Baseline library,acrylic+polyester+viscose,25
+S1,Baseline library,cotton+modal+nylon,25
+S1,Baseline library,elastane+metallised_fibre+polyester,25
+S1,Baseline library,acrylic+cotton+elastane,23
+S1,Baseline library,acrylic+elastane+nylon+wool,22
+S1,Baseline library,cotton+metallised_fibre+polyester,22
+S1,Baseline library,leather,21
+S1,Baseline library,cotton+elastomultiester,20
+S1,Baseline library,cotton+linen+lyocell,20
+S1,Baseline library,lamb leather,20
+S1,Baseline library,lyocell+wool,20
+S1,Baseline library,cotton+nylon+viscose,19
+S1,Baseline library,modacrylic+polyester,19
+S1,Baseline library,acrylic+nylon+wool,18
+S1,Baseline library,cotton+nylon+polyester+wool,18
+S1,Baseline library,silk,18
+S1,Baseline library,cotton+elastane+metallised_fibre+polyester,16
+S1,Baseline library,acrylic+elastane+nylon+polyester,15
+S1,Baseline library,acrylic+elastane+polyester,15
+S1,Baseline library,viscose+wool,15
+S1,Baseline library,acrylic+elastane+nylon,14
+S1,Baseline library,acrylic+cotton+nylon+polyester+viscose+wool,13
+S1,Baseline library,acrylic+elastane+modal+nylon+polyester+viscose,13
+S1,Baseline library,acrylic+elastane+polyester+viscose+wool,13
+S1,Baseline library,cotton+elastane+lyocell,13
+S1,Baseline library,cotton+elastane+nylon+wool,13
+S1,Baseline library,cotton+elastane+nylon+viscose,12
+S1,Baseline library,acetate+viscose,11
+S1,Baseline library,linen+wool,11
+S1,Baseline library,polyester+unspecified_material,11
+S1,Baseline library,silk+viscose,11
+S1,Baseline library,cotton+linen+nylon,10
+S1,Baseline library,metallised_fibre+nylon+polyester,10
+S1,Baseline library,acrylic+cotton+elastane+nylon+viscose,9
+S1,Baseline library,acrylic+cotton+elastane+viscose,9
+S1,Baseline library,cotton+elastane+lyocell+polyester,9
+S1,Baseline library,elastomultiester,9
+S1,Baseline library,linen+lyocell+viscose,9
+S1,Baseline library,metallised_fibre+nylon,9
+S1,Baseline library,metallised_fibre+nylon+polyester+viscose,9
+S1,Baseline library,acrylic+cotton+nylon,8
+S1,Baseline library,acrylic+elastane,8
+S1,Baseline library,acrylic+polyester+viscose+wool,8
+S1,Baseline library,cotton+polyester+wool,8
+S1,Baseline library,cow leather,8
+S1,Baseline library,goat suede,8
+S1,Baseline library,lyocell+nylon+polyester,8
+S1,Baseline library,suede,8
+S1,Baseline library,acrylic+cotton+elastane+polyester+viscose,7
+S1,Baseline library,acrylic+cotton+lyocell+viscose,7
+S1,Baseline library,cotton+elastane+polyester+wool,7
+S1,Baseline library,elastane+lyocell+polyester+wool,7
+S1,Baseline library,elastane+modal+nylon,7
+S1,Baseline library,european linen™,7
+S1,Baseline library,linen+nylon+polyester+viscose,7
+S1,Baseline library,lyocell+polyester+viscose,7
+S1,Baseline library,lyocell+viscose,7
+S1,Baseline library,metallised_fibre+nylon+viscose,7
+S1,Baseline library,ramie,7
+S1,Baseline library,wool+yak wool,7
+S1,Baseline library,acrylic+linen+lyocell,6
+S1,Baseline library,acrylic+nylon+polyester+viscose,6
+S1,Baseline library,cotton+elastane+metallised_fibre+nylon,6
+S1,Baseline library,cotton+linen+polyester,6
+S1,Baseline library,cotton+lyocell+silk,6
+S1,Baseline library,cupro,6
+S1,Baseline library,elastane+nylon+polyester+viscose+wool,6
+S1,Baseline library,elastane+nylon+viscose+wool,6
+S1,Baseline library,modal,6
+S1,Baseline library,nylon+polyester+unspecified_material+wool,6
+S1,Baseline library,nylon+polyester+viscose+wool,6
+S1,Baseline library,pbt+viscose,6
+S1,Baseline library,acetate+elastane+nylon,5
+S1,Baseline library,acrylic+pbt+polyester+wool,5
+S1,Baseline library,elastane+elastomultiester+polyester,5
+S1,Baseline library,linen+polyester+wool,5
+S1,Baseline library,metallised_fibre+polyester+viscose,5
+S1,Baseline library,modal+nylon,5
+S1,Baseline library,polyester+polyurethane,5
+S1,Baseline library,polyester+silk+viscose+wool,5
+S1,Baseline library,reprocessed down+reprocessed feather,5
+S1,Baseline library,acetate+wool,4
+S1,Baseline library,acrylic+cotton+nylon+polyester,4
+S1,Baseline library,acrylic+cotton+polyester+wool,4
+S1,Baseline library,acrylic+modacrylic+polyester,4
+S1,Baseline library,acrylic+nylon+viscose,4
+S1,Baseline library,acrylic+pctg+polyester+polyurethane,4
+S1,Baseline library,cotton+lyocell+nylon+viscose,4
+S1,Baseline library,cotton+lyocell+polyester,4
+S1,Baseline library,cotton+nylon+pbt+wool,4
+S1,Baseline library,cotton+nylon+wool,4
+S1,Baseline library,cotton+unspecified_material,4
+S1,Baseline library,elastane+linen+viscose,4
+S1,Baseline library,elastane+lyocell+polyester+viscose,4
+S1,Baseline library,polyester+silk+viscose,4
+S1,Baseline library,acetate+cotton,3
+S1,Baseline library,acrylic+metallised_fibre+polyester+viscose,3
+S1,Baseline library,cotton+elastane+linen+polyester+viscose,3
+S1,Baseline library,cotton+lyocell™ lyocell+nylon,3
+S1,Baseline library,cotton+metallised_fibre+nylon,3
+S1,Baseline library,cotton+metallised_fibre+nylon+polyester,3
+S1,Baseline library,elastane,3
+S1,Baseline library,elastane+eva,3
+S1,Baseline library,elastane+linen+polyester+viscose,3
+S1,Baseline library,elastane+linen+viscose+wool,3
+S1,Baseline library,elastane+nylon+polyethylene+unspecified_material,3
+S1,Baseline library,elastane+polystyrene,3
+S1,Baseline library,elastane+wool,3
+S1,Baseline library,european linen ™,3
+S1,Baseline library,goat leather,3
+S1,Baseline library,linen+nylon+polyester,3
+S1,Baseline library,nylon+silk+viscose,3
+S1,Baseline library,polyester+resin+tpu,3
+S1,Baseline library,acetate+cotton+viscose,2
+S1,Baseline library,acetate+elastane+viscose,2
+S1,Baseline library,acetate+modal,2
+S1,Baseline library,acetate+polyester,2
+S1,Baseline library,acrylic+cotton+elastane+nylon+polyester - metallised+viscose,2
+S1,Baseline library,acrylic+cotton+polyester+viscose,2
+S1,Baseline library,acrylic+elastane+nylon+polyester+viscose+wool,2
+S1,Baseline library,acrylic+pctg+polyester,2
+S1,Baseline library,cotton+elastane+elastodiene+nylon+polyester,2
+S1,Baseline library,cotton+elastane+linen+viscose,2
+S1,Baseline library,cotton+elastane+lyocell+viscose,2
+S1,Baseline library,cotton+elastane+metallised_fibre,2
+S1,Baseline library,cotton+elastane+metallised_fibre+polyester+viscose,2
+S1,Baseline library,cotton+elastane+nylon+polyester+viscose,2
+S1,Baseline library,cotton+elastane+polystyrene,2
+S1,Baseline library,cotton+elastane+wool,2
+S1,Baseline library,cotton+linen+polyester+viscose,2
+S1,Baseline library,cotton+lyocell+nylon,2
+S1,Baseline library,cotton+metallised_fibre+polyester+viscose,2
+S1,Baseline library,cotton+polyester+silk,2
+S1,Baseline library,cupro+lyocell+nylon,2
+S1,Baseline library,cupro+silk,2
+S1,Baseline library,cupro+viscose,2
+S1,Baseline library,elastane+lyocell+nylon,2
+S1,Baseline library,elastane+lyocell+nylon+polyester+viscose,2
+S1,Baseline library,elastane+metallised_fibre+nylon+polyester,2
+S1,Baseline library,elastane+metallised_fibre+nylon+polyester+viscose+wool,2
+S1,Baseline library,elastane+metallised_fibre+polyester+viscose,2
+S1,Baseline library,elastane+nylon+polyester+polyethylene,2
+S1,Baseline library,elastane+viscose+wool,2
+S1,Baseline library,linen+modal+viscose,2
+S1,Baseline library,lyocell+ramie,2
+S1,Baseline library,lyocell+silk+wool,2
+S1,Baseline library,metallised_fibre+polyester+wool,2
+S1,Baseline library,nylon+polyethylene terephthalate+viscose+wool,2
+S1,Baseline library,nylon+unspecified_material+wool,2
+S1,Baseline library,nylon+viscose+wool,2
+S1,Baseline library,polyethylene+polypropylene,2
+S1,Baseline library,abs,1
+S1,Baseline library,acetate+cotton+metallised_fibre,1
+S1,Baseline library,acrylic+cotton+elastane+metallised_fibre+nylon+polyester+viscose,1
+S1,Baseline library,acrylic+cotton+metallised_fibre+nylon+polyester+viscose+wool,1
+S1,Baseline library,acrylic+cotton+metallised_fibre+polyester,1
+S1,Baseline library,acrylic+cotton+nylon+polyester+viscose,1
+S1,Baseline library,acrylic+cotton+nylon+polyester+wool,1
+S1,Baseline library,acrylic+elastane+metallised_fibre+polyester+wool,1
+S1,Baseline library,acrylic+elastane+pctg+polyester,1
+S1,Baseline library,acrylic+lyocell+nylon+polyester+viscose+wool,1
+S1,Baseline library,acrylic+metallised_fibre,1
+S1,Baseline library,acrylic+metallised_fibre+nylon+polyester+wool,1
+S1,Baseline library,acrylic+nylon+polyester+unspecified_material,1
+S1,Baseline library,acrylic+nylon+polyester+unspecified_material+wool,1
+S1,Baseline library,acrylic+polyester+unspecified_material,1
+S1,Baseline library,acrylic+polyester+unspecified_material+wool,1
+S1,Baseline library,acrylic+viscose+wool,1
+S1,Baseline library,cellulose,1
+S1,Baseline library,cotton+cupro,1
+S1,Baseline library,cotton+elastane+lyocell+wool,1
+S1,Baseline library,cotton+elastane+metallised_fibre+nylon+polyester,1
+S1,Baseline library,cotton+elastane+modal+polyester,1
+S1,Baseline library,cotton+elastane+unspecified_material,1
+S1,Baseline library,cotton+linen+lyocell+polyester,1
+S1,Baseline library,cotton+linen+polyester+silk,1
+S1,Baseline library,cotton+linen+ramie,1
+S1,Baseline library,cotton+metallised_fibre+polyester+unspecified_material,1
+S1,Baseline library,cotton+metallised_fibre+polyester+unspecified_material+viscose+wool,1
+S1,Baseline library,cotton+metallised_fibre+viscose,1
+S1,Baseline library,cotton+nylon+polyester+viscose,1
+S1,Baseline library,cotton+nylon+unspecified_material+wool,1
+S1,Baseline library,cotton+pctg+polyester,1
+S1,Baseline library,cotton+polyester+viscose+wool,1
+S1,Baseline library,cotton+viscose+wool,1
+S1,Baseline library,cupro+wool,1
+S1,Baseline library,elastane+lyocell+polyester+silk+viscose,1
+S1,Baseline library,elastane+metallised_fibre+nylon+polyester+wool,1
+S1,Baseline library,elastane+modal+wool,1
+S1,Baseline library,elastane+nylon+polypropylene,1
+S1,Baseline library,elastane+nylon+wool+yak wool,1
+S1,Baseline library,elastane+silk,1
+S1,Baseline library,linen+lyocell+nylon+polyester,1
+S1,Baseline library,linen+lyocell+nylon+viscose,1
+S1,Baseline library,linen+lyocell+polyester,1
+S1,Baseline library,linen+lyocell+polyester+viscose,1
+S1,Baseline library,lyocell+polyester+unspecified_material+wool,1
+S1,Baseline library,lyocell+polyester+wool,1
+S1,Baseline library,lyocell+silk,1
+S1,Baseline library,mdf,1
+S1,Baseline library,modacrylic+polyester+viscose,1
+S1,Baseline library,modal+nylon+viscose,1
+S1,Baseline library,nylon+pbt+polyester+viscose,1
+S1,Baseline library,nylon+polypropylene+wool,1
+S1,Baseline library,nylon+silk,1
+S1,Baseline library,paper,1
+S1,Baseline library,pctg+polyester,1
+S1,Baseline library,polystyrene foam,1
+S1,Baseline library,silk+viscose+wool,1
+S1,Baseline library,silk+wool,1
+S1,Extended library,elastane+polyester+viscose,1694
+S1,Extended library,cotton+elastane+polyester,1564
+S1,Extended library,nylon+viscose,1081
+S1,Extended library,acrylic+elastane+polyester+wool,655
+S1,Extended library,cotton+linen,525
+S1,Extended library,cotton+elastane+nylon,505
+S1,Extended library,linen+viscose,475
+S1,Extended library,cotton+elastane+nylon+polyester,379
+S1,Extended library,cotton+lyocell,371
+S1,Extended library,nylon+polyester+viscose,333
+S1,Extended library,acrylic+polyester+wool,244
+S1,Extended library,elastane+nylon+wool,238
+S1,Extended library,cotton+polyester+viscose,225
+S1,Extended library,cotton+elastane+viscose,221
+S1,Extended library,acrylic+nylon+polyester+wool,197
+S1,Extended library,elastane+polyester+wool,165
+S1,Extended library,elastane+nylon+polyester,161
+S1,Extended library,elastane+nylon+viscose,155
+S1,Extended library,acrylic+elastane+nylon+polyester+wool,151
+S1,Extended library,cotton+elastane+elastomultiester,150
+S1,Extended library,acrylic+elastane+polyester+viscose,147
+S1,Extended library,cotton+linen+viscose,124
+S1,Extended library,cotton+elastane+lyocell™ modal,119
+S1,Extended library,elastomultiester+polyester,117
+S1,Extended library,elastane+viscose,116
+S1,Extended library,acrylic+cotton+elastane+nylon+polyester,108
+S1,Extended library,lyocell+polyester,106
+S1,Extended library,lyocell+nylon,94
+S1,Extended library,nylon+polyester+wool,85
+S1,Extended library,cotton+wool,76
+S1,Extended library,linen+polyester+viscose,72
+S1,Extended library,linen+nylon+viscose,64
+S1,Extended library,elastane+polyester+viscose+wool,62
+S1,Extended library,polyester+viscose+wool,61
+S1,Extended library,australian wool,59
+S1,Extended library,acrylic+polyester,57
+S1,Extended library,nylon+wool,57
+S1,Extended library,cotton+elastomultiester+polyester,54
+S1,Extended library,cotton+modal,54
+S1,Extended library,acrylic+cotton+elastane+polyester,52
+S1,Extended library,polyurethane,49
+S1,Extended library,elastane+metallised_fibre+nylon,48
+S1,Extended library,acrylic+cotton+elastane+nylon+polyester+viscose,46
+S1,Extended library,elastane+lyocell,45
+S1,Extended library,modal+polyester,44
+S1,Extended library,metallised_fibre+viscose,43
+S1,Extended library,acrylic+cotton+polyester,42
+S1,Extended library,cotton+elastane+modal,41
+S1,Extended library,elastane+nylon+polyester+wool,41
+S1,Extended library,acrylic+elastane+viscose+wool,40
+S1,Extended library,cotton+elastane+polyester+viscose,38
+S1,Extended library,cotton+nylon+polyester,38
+S1,Extended library,acrylic+viscose,37
+S1,Extended library,linen+lyocell,36
+S1,Extended library,cotton+elastane+linen,35
+S1,Extended library,cupro+elastane+nylon,35
+S1,Extended library,metallised_fibre+polyester,35
+S1,Extended library,acrylic+nylon,34
+S1,Extended library,acrylic+nylon+polyester,33
+S1,Extended library,acrylic+nylon+polyester+viscose+wool,33
+S1,Extended library,elastane+lyocell+polyester,33
+S1,Extended library,acrylic+elastane+nylon+viscose,32
+S1,Extended library,polyester+unspecified_material+wool,32
+S1,Extended library,acrylic+elastane+modal+nylon+viscose,30
+S1,Extended library,cupro+elastane+polyester,30
+S1,Extended library,elastane+nylon+polyester+viscose,30
+S1,Extended library,sheep leather,30
+S1,Extended library,linen+lyocell+nylon,28
+S1,Extended library,elastane+modal,27
+S1,Extended library,cotton+elastane+elastodiene+nylon,26
+S1,Extended library,elastane+modal+polyester,26
+S1,Extended library,linen+polyester,26
+S1,Extended library,acrylic+polyester+viscose,25
+S1,Extended library,cotton+modal+nylon,25
+S1,Extended library,elastane+metallised_fibre+polyester,25
+S1,Extended library,acrylic+cotton+elastane,23
+S1,Extended library,acrylic+elastane+nylon+wool,22
+S1,Extended library,cotton+metallised_fibre+polyester,22
+S1,Extended library,leather,21
+S1,Extended library,cotton+elastomultiester,20
+S1,Extended library,cotton+linen+lyocell,20
+S1,Extended library,lamb leather,20
+S1,Extended library,lyocell+wool,20
+S1,Extended library,cotton+nylon+viscose,19
+S1,Extended library,modacrylic+polyester,19
+S1,Extended library,acrylic+nylon+wool,18
+S1,Extended library,cotton+nylon+polyester+wool,18
+S1,Extended library,cotton+elastane+metallised_fibre+polyester,16
+S1,Extended library,acrylic+elastane+nylon+polyester,15
+S1,Extended library,acrylic+elastane+polyester,15
+S1,Extended library,viscose+wool,15
+S1,Extended library,acrylic+elastane+nylon,14
+S1,Extended library,acrylic+cotton+nylon+polyester+viscose+wool,13
+S1,Extended library,acrylic+elastane+modal+nylon+polyester+viscose,13
+S1,Extended library,acrylic+elastane+polyester+viscose+wool,13
+S1,Extended library,cotton+elastane+lyocell,13
+S1,Extended library,cotton+elastane+nylon+wool,13
+S1,Extended library,cotton+elastane+nylon+viscose,12
+S1,Extended library,acetate+viscose,11
+S1,Extended library,linen+wool,11
+S1,Extended library,polyester+unspecified_material,11
+S1,Extended library,silk+viscose,11
+S1,Extended library,cotton+linen+nylon,10
+S1,Extended library,metallised_fibre+nylon+polyester,10
+S1,Extended library,acrylic+cotton+elastane+nylon+viscose,9
+S1,Extended library,acrylic+cotton+elastane+viscose,9
+S1,Extended library,cotton+elastane+lyocell+polyester,9
+S1,Extended library,elastomultiester,9
+S1,Extended library,linen+lyocell+viscose,9
+S1,Extended library,metallised_fibre+nylon,9
+S1,Extended library,metallised_fibre+nylon+polyester+viscose,9
+S1,Extended library,acrylic+cotton+nylon,8
+S1,Extended library,acrylic+elastane,8
+S1,Extended library,acrylic+polyester+viscose+wool,8
+S1,Extended library,cotton+polyester+wool,8
+S1,Extended library,cow leather,8
+S1,Extended library,goat suede,8
+S1,Extended library,lyocell+nylon+polyester,8
+S1,Extended library,suede,8
+S1,Extended library,acrylic+cotton+elastane+polyester+viscose,7
+S1,Extended library,acrylic+cotton+lyocell+viscose,7
+S1,Extended library,cotton+elastane+polyester+wool,7
+S1,Extended library,elastane+lyocell+polyester+wool,7
+S1,Extended library,elastane+modal+nylon,7
+S1,Extended library,european linen™,7
+S1,Extended library,linen+nylon+polyester+viscose,7
+S1,Extended library,lyocell+polyester+viscose,7
+S1,Extended library,lyocell+viscose,7
+S1,Extended library,metallised_fibre+nylon+viscose,7
+S1,Extended library,ramie,7
+S1,Extended library,wool+yak wool,7
+S1,Extended library,acrylic+linen+lyocell,6
+S1,Extended library,acrylic+nylon+polyester+viscose,6
+S1,Extended library,cotton+elastane+metallised_fibre+nylon,6
+S1,Extended library,cotton+linen+polyester,6
+S1,Extended library,cotton+lyocell+silk,6
+S1,Extended library,cupro,6
+S1,Extended library,elastane+nylon+polyester+viscose+wool,6
+S1,Extended library,elastane+nylon+viscose+wool,6
+S1,Extended library,nylon+polyester+unspecified_material+wool,6
+S1,Extended library,nylon+polyester+viscose+wool,6
+S1,Extended library,pbt+viscose,6
+S1,Extended library,acetate+elastane+nylon,5
+S1,Extended library,acrylic+pbt+polyester+wool,5
+S1,Extended library,elastane+elastomultiester+polyester,5
+S1,Extended library,linen+polyester+wool,5
+S1,Extended library,metallised_fibre+polyester+viscose,5
+S1,Extended library,modal+nylon,5
+S1,Extended library,polyester+polyurethane,5
+S1,Extended library,polyester+silk+viscose+wool,5
+S1,Extended library,reprocessed down+reprocessed feather,5
+S1,Extended library,acetate+wool,4
+S1,Extended library,acrylic+cotton+nylon+polyester,4
+S1,Extended library,acrylic+cotton+polyester+wool,4
+S1,Extended library,acrylic+modacrylic+polyester,4
+S1,Extended library,acrylic+nylon+viscose,4
+S1,Extended library,acrylic+pctg+polyester+polyurethane,4
+S1,Extended library,cotton+lyocell+nylon+viscose,4
+S1,Extended library,cotton+lyocell+polyester,4
+S1,Extended library,cotton+nylon+pbt+wool,4
+S1,Extended library,cotton+nylon+wool,4
+S1,Extended library,cotton+unspecified_material,4
+S1,Extended library,elastane+linen+viscose,4
+S1,Extended library,elastane+lyocell+polyester+viscose,4
+S1,Extended library,polyester+silk+viscose,4
+S1,Extended library,acetate+cotton,3
+S1,Extended library,acrylic+metallised_fibre+polyester+viscose,3
+S1,Extended library,cotton+elastane+linen+polyester+viscose,3
+S1,Extended library,cotton+lyocell™ lyocell+nylon,3
+S1,Extended library,cotton+metallised_fibre+nylon,3
+S1,Extended library,cotton+metallised_fibre+nylon+polyester,3
+S1,Extended library,elastane+eva,3
+S1,Extended library,elastane+linen+polyester+viscose,3
+S1,Extended library,elastane+linen+viscose+wool,3
+S1,Extended library,elastane+nylon+polyethylene+unspecified_material,3
+S1,Extended library,elastane+polystyrene,3
+S1,Extended library,elastane+wool,3
+S1,Extended library,european linen ™,3
+S1,Extended library,goat leather,3
+S1,Extended library,linen+nylon+polyester,3
+S1,Extended library,nylon+silk+viscose,3
+S1,Extended library,polyester+resin+tpu,3
+S1,Extended library,acetate+cotton+viscose,2
+S1,Extended library,acetate+elastane+viscose,2
+S1,Extended library,acetate+modal,2
+S1,Extended library,acetate+polyester,2
+S1,Extended library,acrylic+cotton+elastane+nylon+polyester - metallised+viscose,2
+S1,Extended library,acrylic+cotton+polyester+viscose,2
+S1,Extended library,acrylic+elastane+nylon+polyester+viscose+wool,2
+S1,Extended library,acrylic+pctg+polyester,2
+S1,Extended library,cotton+elastane+elastodiene+nylon+polyester,2
+S1,Extended library,cotton+elastane+linen+viscose,2
+S1,Extended library,cotton+elastane+lyocell+viscose,2
+S1,Extended library,cotton+elastane+metallised_fibre,2
+S1,Extended library,cotton+elastane+metallised_fibre+polyester+viscose,2
+S1,Extended library,cotton+elastane+nylon+polyester+viscose,2
+S1,Extended library,cotton+elastane+polystyrene,2
+S1,Extended library,cotton+elastane+wool,2
+S1,Extended library,cotton+linen+polyester+viscose,2
+S1,Extended library,cotton+lyocell+nylon,2
+S1,Extended library,cotton+metallised_fibre+polyester+viscose,2
+S1,Extended library,cotton+polyester+silk,2
+S1,Extended library,cupro+lyocell+nylon,2
+S1,Extended library,cupro+silk,2
+S1,Extended library,cupro+viscose,2
+S1,Extended library,elastane+lyocell+nylon,2
+S1,Extended library,elastane+lyocell+nylon+polyester+viscose,2
+S1,Extended library,elastane+metallised_fibre+nylon+polyester,2
+S1,Extended library,elastane+metallised_fibre+nylon+polyester+viscose+wool,2
+S1,Extended library,elastane+metallised_fibre+polyester+viscose,2
+S1,Extended library,elastane+nylon+polyester+polyethylene,2
+S1,Extended library,elastane+viscose+wool,2
+S1,Extended library,linen+modal+viscose,2
+S1,Extended library,lyocell+ramie,2
+S1,Extended library,lyocell+silk+wool,2
+S1,Extended library,metallised_fibre+polyester+wool,2
+S1,Extended library,nylon+polyethylene terephthalate+viscose+wool,2
+S1,Extended library,nylon+unspecified_material+wool,2
+S1,Extended library,nylon+viscose+wool,2
+S1,Extended library,polyethylene+polypropylene,2
+S1,Extended library,abs,1
+S1,Extended library,acetate+cotton+metallised_fibre,1
+S1,Extended library,acrylic+cotton+elastane+metallised_fibre+nylon+polyester+viscose,1
+S1,Extended library,acrylic+cotton+metallised_fibre+nylon+polyester+viscose+wool,1
+S1,Extended library,acrylic+cotton+metallised_fibre+polyester,1
+S1,Extended library,acrylic+cotton+nylon+polyester+viscose,1
+S1,Extended library,acrylic+cotton+nylon+polyester+wool,1
+S1,Extended library,acrylic+elastane+metallised_fibre+polyester+wool,1
+S1,Extended library,acrylic+elastane+pctg+polyester,1
+S1,Extended library,acrylic+lyocell+nylon+polyester+viscose+wool,1
+S1,Extended library,acrylic+metallised_fibre,1
+S1,Extended library,acrylic+metallised_fibre+nylon+polyester+wool,1
+S1,Extended library,acrylic+nylon+polyester+unspecified_material,1
+S1,Extended library,acrylic+nylon+polyester+unspecified_material+wool,1
+S1,Extended library,acrylic+polyester+unspecified_material,1
+S1,Extended library,acrylic+polyester+unspecified_material+wool,1
+S1,Extended library,acrylic+viscose+wool,1
+S1,Extended library,cellulose,1
+S1,Extended library,cotton+cupro,1
+S1,Extended library,cotton+elastane+lyocell+wool,1
+S1,Extended library,cotton+elastane+metallised_fibre+nylon+polyester,1
+S1,Extended library,cotton+elastane+modal+polyester,1
+S1,Extended library,cotton+elastane+unspecified_material,1
+S1,Extended library,cotton+linen+lyocell+polyester,1
+S1,Extended library,cotton+linen+polyester+silk,1
+S1,Extended library,cotton+linen+ramie,1
+S1,Extended library,cotton+metallised_fibre+polyester+unspecified_material,1
+S1,Extended library,cotton+metallised_fibre+polyester+unspecified_material+viscose+wool,1
+S1,Extended library,cotton+metallised_fibre+viscose,1
+S1,Extended library,cotton+nylon+polyester+viscose,1
+S1,Extended library,cotton+nylon+unspecified_material+wool,1
+S1,Extended library,cotton+pctg+polyester,1
+S1,Extended library,cotton+polyester+viscose+wool,1
+S1,Extended library,cotton+viscose+wool,1
+S1,Extended library,cupro+wool,1
+S1,Extended library,elastane+lyocell+polyester+silk+viscose,1
+S1,Extended library,elastane+metallised_fibre+nylon+polyester+wool,1
+S1,Extended library,elastane+modal+wool,1
+S1,Extended library,elastane+nylon+polypropylene,1
+S1,Extended library,elastane+nylon+wool+yak wool,1
+S1,Extended library,elastane+silk,1
+S1,Extended library,linen+lyocell+nylon+polyester,1
+S1,Extended library,linen+lyocell+nylon+viscose,1
+S1,Extended library,linen+lyocell+polyester,1
+S1,Extended library,linen+lyocell+polyester+viscose,1
+S1,Extended library,lyocell+polyester+unspecified_material+wool,1
+S1,Extended library,lyocell+polyester+wool,1
+S1,Extended library,lyocell+silk,1
+S1,Extended library,mdf,1
+S1,Extended library,modacrylic+polyester+viscose,1
+S1,Extended library,modal+nylon+viscose,1
+S1,Extended library,nylon+pbt+polyester+viscose,1
+S1,Extended library,nylon+polypropylene+wool,1
+S1,Extended library,nylon+silk,1
+S1,Extended library,paper,1
+S1,Extended library,pctg+polyester,1
+S1,Extended library,polystyrene foam,1
+S1,Extended library,silk+viscose+wool,1
+S1,Extended library,silk+wool,1
+S1,Restricted library,cotton+elastane,3932
+S1,Restricted library,elastane+nylon,2258
+S1,Restricted library,elastane+polyester+viscose,1694
+S1,Restricted library,cotton+elastane+polyester,1564
+S1,Restricted library,nylon+viscose,1081
+S1,Restricted library,acrylic+elastane+polyester+wool,655
+S1,Restricted library,cotton+linen,525
+S1,Restricted library,cotton+elastane+nylon,505
+S1,Restricted library,linen+viscose,475
+S1,Restricted library,cotton+viscose,418
+S1,Restricted library,cotton+elastane+nylon+polyester,379
+S1,Restricted library,cotton+lyocell,371
+S1,Restricted library,linen,364
+S1,Restricted library,nylon+polyester+viscose,333
+S1,Restricted library,cotton+nylon,283
+S1,Restricted library,polyester+wool,250
+S1,Restricted library,acrylic+polyester+wool,244
+S1,Restricted library,elastane+nylon+wool,238
+S1,Restricted library,cotton+polyester+viscose,225
+S1,Restricted library,cotton+elastane+viscose,221
+S1,Restricted library,acrylic+nylon+polyester+wool,197
+S1,Restricted library,nylon+polyester,172
+S1,Restricted library,elastane+polyester+wool,165
+S1,Restricted library,elastane+nylon+polyester,161
+S1,Restricted library,elastane+nylon+viscose,155
+S1,Restricted library,acrylic+elastane+nylon+polyester+wool,151
+S1,Restricted library,cotton+elastane+elastomultiester,150
+S1,Restricted library,acrylic+elastane+polyester+viscose,147
+S1,Restricted library,cotton+linen+viscose,124
+S1,Restricted library,cotton+elastane+lyocell™ modal,119
+S1,Restricted library,elastomultiester+polyester,117
+S1,Restricted library,elastane+viscose,116
+S1,Restricted library,acrylic+cotton+elastane+nylon+polyester,108
+S1,Restricted library,lyocell+polyester,106
+S1,Restricted library,lyocell+nylon,94
+S1,Restricted library,nylon+polyester+wool,85
+S1,Restricted library,cotton+wool,76
+S1,Restricted library,linen+polyester+viscose,72
+S1,Restricted library,linen+nylon+viscose,64
+S1,Restricted library,elastane+polyester+viscose+wool,62
+S1,Restricted library,polyester+viscose+wool,61
+S1,Restricted library,australian wool,59
+S1,Restricted library,acrylic+polyester,57
+S1,Restricted library,nylon+wool,57
+S1,Restricted library,lyocell,56
+S1,Restricted library,cotton+elastomultiester+polyester,54
+S1,Restricted library,cotton+modal,54
+S1,Restricted library,acrylic+cotton+elastane+polyester,52
+S1,Restricted library,polyurethane,49
+S1,Restricted library,elastane+metallised_fibre+nylon,48
+S1,Restricted library,acrylic+cotton+elastane+nylon+polyester+viscose,46
+S1,Restricted library,elastane+lyocell,45
+S1,Restricted library,modal+polyester,44
+S1,Restricted library,metallised_fibre+viscose,43
+S1,Restricted library,acrylic+cotton+polyester,42
+S1,Restricted library,cotton+elastane+modal,41
+S1,Restricted library,elastane+nylon+polyester+wool,41
+S1,Restricted library,acrylic+elastane+viscose+wool,40
+S1,Restricted library,cotton+elastane+polyester+viscose,38
+S1,Restricted library,cotton+nylon+polyester,38
+S1,Restricted library,acrylic+viscose,37
+S1,Restricted library,linen+lyocell,36
+S1,Restricted library,cotton+elastane+linen,35
+S1,Restricted library,cupro+elastane+nylon,35
+S1,Restricted library,metallised_fibre+polyester,35
+S1,Restricted library,acrylic+nylon,34
+S1,Restricted library,acrylic+nylon+polyester,33
+S1,Restricted library,acrylic+nylon+polyester+viscose+wool,33
+S1,Restricted library,cotton+silk,33
+S1,Restricted library,elastane+lyocell+polyester,33
+S1,Restricted library,acrylic+elastane+nylon+viscose,32
+S1,Restricted library,polyester+unspecified_material+wool,32
+S1,Restricted library,acrylic+elastane+modal+nylon+viscose,30
+S1,Restricted library,cupro+elastane+polyester,30
+S1,Restricted library,elastane+nylon+polyester+viscose,30
+S1,Restricted library,sheep leather,30
+S1,Restricted library,acetate,29
+S1,Restricted library,linen+lyocell+nylon,28
+S1,Restricted library,elastane+modal,27
+S1,Restricted library,cotton+elastane+elastodiene+nylon,26
+S1,Restricted library,elastane+modal+polyester,26
+S1,Restricted library,linen+polyester,26
+S1,Restricted library,acrylic+polyester+viscose,25
+S1,Restricted library,cotton+modal+nylon,25
+S1,Restricted library,elastane+metallised_fibre+polyester,25
+S1,Restricted library,acrylic+cotton+elastane,23
+S1,Restricted library,acrylic+elastane+nylon+wool,22
+S1,Restricted library,cotton+metallised_fibre+polyester,22
+S1,Restricted library,leather,21
+S1,Restricted library,cotton+elastomultiester,20
+S1,Restricted library,cotton+linen+lyocell,20
+S1,Restricted library,lamb leather,20
+S1,Restricted library,lyocell+wool,20
+S1,Restricted library,cotton+nylon+viscose,19
+S1,Restricted library,modacrylic+polyester,19
+S1,Restricted library,acrylic+nylon+wool,18
+S1,Restricted library,cotton+nylon+polyester+wool,18
+S1,Restricted library,silk,18
+S1,Restricted library,cotton+elastane+metallised_fibre+polyester,16
+S1,Restricted library,acrylic+elastane+nylon+polyester,15
+S1,Restricted library,acrylic+elastane+polyester,15
+S1,Restricted library,viscose+wool,15
+S1,Restricted library,acrylic+elastane+nylon,14
+S1,Restricted library,acrylic+cotton+nylon+polyester+viscose+wool,13
+S1,Restricted library,acrylic+elastane+modal+nylon+polyester+viscose,13
+S1,Restricted library,acrylic+elastane+polyester+viscose+wool,13
+S1,Restricted library,cotton+elastane+lyocell,13
+S1,Restricted library,cotton+elastane+nylon+wool,13
+S1,Restricted library,cotton+elastane+nylon+viscose,12
+S1,Restricted library,acetate+viscose,11
+S1,Restricted library,linen+wool,11
+S1,Restricted library,polyester+unspecified_material,11
+S1,Restricted library,silk+viscose,11
+S1,Restricted library,cotton+linen+nylon,10
+S1,Restricted library,metallised_fibre+nylon+polyester,10
+S1,Restricted library,acrylic+cotton+elastane+nylon+viscose,9
+S1,Restricted library,acrylic+cotton+elastane+viscose,9
+S1,Restricted library,cotton+elastane+lyocell+polyester,9
+S1,Restricted library,elastomultiester,9
+S1,Restricted library,linen+lyocell+viscose,9
+S1,Restricted library,metallised_fibre+nylon,9
+S1,Restricted library,metallised_fibre+nylon+polyester+viscose,9
+S1,Restricted library,acrylic+cotton+nylon,8
+S1,Restricted library,acrylic+elastane,8
+S1,Restricted library,acrylic+polyester+viscose+wool,8
+S1,Restricted library,cotton+polyester+wool,8
+S1,Restricted library,cow leather,8
+S1,Restricted library,goat suede,8
+S1,Restricted library,lyocell+nylon+polyester,8
+S1,Restricted library,suede,8
+S1,Restricted library,acrylic+cotton+elastane+polyester+viscose,7
+S1,Restricted library,acrylic+cotton+lyocell+viscose,7
+S1,Restricted library,cotton+elastane+polyester+wool,7
+S1,Restricted library,elastane+lyocell+polyester+wool,7
+S1,Restricted library,elastane+modal+nylon,7
+S1,Restricted library,european linen™,7
+S1,Restricted library,linen+nylon+polyester+viscose,7
+S1,Restricted library,lyocell+polyester+viscose,7
+S1,Restricted library,lyocell+viscose,7
+S1,Restricted library,metallised_fibre+nylon+viscose,7
+S1,Restricted library,ramie,7
+S1,Restricted library,wool+yak wool,7
+S1,Restricted library,acrylic+linen+lyocell,6
+S1,Restricted library,acrylic+nylon+polyester+viscose,6
+S1,Restricted library,cotton+elastane+metallised_fibre+nylon,6
+S1,Restricted library,cotton+linen+polyester,6
+S1,Restricted library,cotton+lyocell+silk,6
+S1,Restricted library,cupro,6
+S1,Restricted library,elastane+nylon+polyester+viscose+wool,6
+S1,Restricted library,elastane+nylon+viscose+wool,6
+S1,Restricted library,modal,6
+S1,Restricted library,nylon+polyester+unspecified_material+wool,6
+S1,Restricted library,nylon+polyester+viscose+wool,6
+S1,Restricted library,pbt+viscose,6
+S1,Restricted library,acetate+elastane+nylon,5
+S1,Restricted library,acrylic+pbt+polyester+wool,5
+S1,Restricted library,elastane+elastomultiester+polyester,5
+S1,Restricted library,linen+polyester+wool,5
+S1,Restricted library,metallised_fibre+polyester+viscose,5
+S1,Restricted library,modal+nylon,5
+S1,Restricted library,polyester+polyurethane,5
+S1,Restricted library,polyester+silk+viscose+wool,5
+S1,Restricted library,reprocessed down+reprocessed feather,5
+S1,Restricted library,acetate+wool,4
+S1,Restricted library,acrylic+cotton+nylon+polyester,4
+S1,Restricted library,acrylic+cotton+polyester+wool,4
+S1,Restricted library,acrylic+modacrylic+polyester,4
+S1,Restricted library,acrylic+nylon+viscose,4
+S1,Restricted library,acrylic+pctg+polyester+polyurethane,4
+S1,Restricted library,cotton+lyocell+nylon+viscose,4
+S1,Restricted library,cotton+lyocell+polyester,4
+S1,Restricted library,cotton+nylon+pbt+wool,4
+S1,Restricted library,cotton+nylon+wool,4
+S1,Restricted library,cotton+unspecified_material,4
+S1,Restricted library,elastane+linen+viscose,4
+S1,Restricted library,elastane+lyocell+polyester+viscose,4
+S1,Restricted library,polyester+silk+viscose,4
+S1,Restricted library,acetate+cotton,3
+S1,Restricted library,acrylic+metallised_fibre+polyester+viscose,3
+S1,Restricted library,cotton+elastane+linen+polyester+viscose,3
+S1,Restricted library,cotton+lyocell™ lyocell+nylon,3
+S1,Restricted library,cotton+metallised_fibre+nylon,3
+S1,Restricted library,cotton+metallised_fibre+nylon+polyester,3
+S1,Restricted library,elastane,3
+S1,Restricted library,elastane+eva,3
+S1,Restricted library,elastane+linen+polyester+viscose,3
+S1,Restricted library,elastane+linen+viscose+wool,3
+S1,Restricted library,elastane+nylon+polyethylene+unspecified_material,3
+S1,Restricted library,elastane+polystyrene,3
+S1,Restricted library,elastane+wool,3
+S1,Restricted library,european linen ™,3
+S1,Restricted library,goat leather,3
+S1,Restricted library,linen+nylon+polyester,3
+S1,Restricted library,nylon+silk+viscose,3
+S1,Restricted library,polyester+resin+tpu,3
+S1,Restricted library,acetate+cotton+viscose,2
+S1,Restricted library,acetate+elastane+viscose,2
+S1,Restricted library,acetate+modal,2
+S1,Restricted library,acetate+polyester,2
+S1,Restricted library,acrylic+cotton+elastane+nylon+polyester - metallised+viscose,2
+S1,Restricted library,acrylic+cotton+polyester+viscose,2
+S1,Restricted library,acrylic+elastane+nylon+polyester+viscose+wool,2
+S1,Restricted library,acrylic+pctg+polyester,2
+S1,Restricted library,cotton+elastane+elastodiene+nylon+polyester,2
+S1,Restricted library,cotton+elastane+linen+viscose,2
+S1,Restricted library,cotton+elastane+lyocell+viscose,2
+S1,Restricted library,cotton+elastane+metallised_fibre,2
+S1,Restricted library,cotton+elastane+metallised_fibre+polyester+viscose,2
+S1,Restricted library,cotton+elastane+nylon+polyester+viscose,2
+S1,Restricted library,cotton+elastane+polystyrene,2
+S1,Restricted library,cotton+elastane+wool,2
+S1,Restricted library,cotton+linen+polyester+viscose,2
+S1,Restricted library,cotton+lyocell+nylon,2
+S1,Restricted library,cotton+metallised_fibre+polyester+viscose,2
+S1,Restricted library,cotton+polyester+silk,2
+S1,Restricted library,cupro+lyocell+nylon,2
+S1,Restricted library,cupro+silk,2
+S1,Restricted library,cupro+viscose,2
+S1,Restricted library,elastane+lyocell+nylon,2
+S1,Restricted library,elastane+lyocell+nylon+polyester+viscose,2
+S1,Restricted library,elastane+metallised_fibre+nylon+polyester,2
+S1,Restricted library,elastane+metallised_fibre+nylon+polyester+viscose+wool,2
+S1,Restricted library,elastane+metallised_fibre+polyester+viscose,2
+S1,Restricted library,elastane+nylon+polyester+polyethylene,2
+S1,Restricted library,elastane+viscose+wool,2
+S1,Restricted library,linen+modal+viscose,2
+S1,Restricted library,lyocell+ramie,2
+S1,Restricted library,lyocell+silk+wool,2
+S1,Restricted library,metallised_fibre+polyester+wool,2
+S1,Restricted library,nylon+polyethylene terephthalate+viscose+wool,2
+S1,Restricted library,nylon+unspecified_material+wool,2
+S1,Restricted library,nylon+viscose+wool,2
+S1,Restricted library,polyethylene+polypropylene,2
+S1,Restricted library,abs,1
+S1,Restricted library,acetate+cotton+metallised_fibre,1
+S1,Restricted library,acrylic+cotton+elastane+metallised_fibre+nylon+polyester+viscose,1
+S1,Restricted library,acrylic+cotton+metallised_fibre+nylon+polyester+viscose+wool,1
+S1,Restricted library,acrylic+cotton+metallised_fibre+polyester,1
+S1,Restricted library,acrylic+cotton+nylon+polyester+viscose,1
+S1,Restricted library,acrylic+cotton+nylon+polyester+wool,1
+S1,Restricted library,acrylic+elastane+metallised_fibre+polyester+wool,1
+S1,Restricted library,acrylic+elastane+pctg+polyester,1
+S1,Restricted library,acrylic+lyocell+nylon+polyester+viscose+wool,1
+S1,Restricted library,acrylic+metallised_fibre,1
+S1,Restricted library,acrylic+metallised_fibre+nylon+polyester+wool,1
+S1,Restricted library,acrylic+nylon+polyester+unspecified_material,1
+S1,Restricted library,acrylic+nylon+polyester+unspecified_material+wool,1
+S1,Restricted library,acrylic+polyester+unspecified_material,1
+S1,Restricted library,acrylic+polyester+unspecified_material+wool,1
+S1,Restricted library,acrylic+viscose+wool,1
+S1,Restricted library,cellulose,1
+S1,Restricted library,cotton+cupro,1
+S1,Restricted library,cotton+elastane+lyocell+wool,1
+S1,Restricted library,cotton+elastane+metallised_fibre+nylon+polyester,1
+S1,Restricted library,cotton+elastane+modal+polyester,1
+S1,Restricted library,cotton+elastane+unspecified_material,1
+S1,Restricted library,cotton+linen+lyocell+polyester,1
+S1,Restricted library,cotton+linen+polyester+silk,1
+S1,Restricted library,cotton+linen+ramie,1
+S1,Restricted library,cotton+metallised_fibre+polyester+unspecified_material,1
+S1,Restricted library,cotton+metallised_fibre+polyester+unspecified_material+viscose+wool,1
+S1,Restricted library,cotton+metallised_fibre+viscose,1
+S1,Restricted library,cotton+nylon+polyester+viscose,1
+S1,Restricted library,cotton+nylon+unspecified_material+wool,1
+S1,Restricted library,cotton+pctg+polyester,1
+S1,Restricted library,cotton+polyester+viscose+wool,1
+S1,Restricted library,cotton+viscose+wool,1
+S1,Restricted library,cupro+wool,1
+S1,Restricted library,elastane+lyocell+polyester+silk+viscose,1
+S1,Restricted library,elastane+metallised_fibre+nylon+polyester+wool,1
+S1,Restricted library,elastane+modal+wool,1
+S1,Restricted library,elastane+nylon+polypropylene,1
+S1,Restricted library,elastane+nylon+wool+yak wool,1
+S1,Restricted library,elastane+silk,1
+S1,Restricted library,linen+lyocell+nylon+polyester,1
+S1,Restricted library,linen+lyocell+nylon+viscose,1
+S1,Restricted library,linen+lyocell+polyester,1
+S1,Restricted library,linen+lyocell+polyester+viscose,1
+S1,Restricted library,lyocell+polyester+unspecified_material+wool,1
+S1,Restricted library,lyocell+polyester+wool,1
+S1,Restricted library,lyocell+silk,1
+S1,Restricted library,mdf,1
+S1,Restricted library,modacrylic+polyester+viscose,1
+S1,Restricted library,modal+nylon+viscose,1
+S1,Restricted library,nylon+pbt+polyester+viscose,1
+S1,Restricted library,nylon+polypropylene+wool,1
+S1,Restricted library,nylon+silk,1
+S1,Restricted library,paper,1
+S1,Restricted library,pctg+polyester,1
+S1,Restricted library,polystyrene foam,1
+S1,Restricted library,silk+viscose+wool,1
+S1,Restricted library,silk+wool,1
+S2,Fixed,elastane+polyester+viscose,1694
+S2,Fixed,cotton+elastane+polyester,1564
+S2,Fixed,acrylic+elastane+polyester+wool,655
+S2,Fixed,cotton+elastane+nylon,505
+S2,Fixed,cotton+elastane+nylon+polyester,379
+S2,Fixed,nylon+polyester+viscose,333
+S2,Fixed,acrylic+polyester+wool,244
+S2,Fixed,elastane+nylon+wool,238
+S2,Fixed,cotton+polyester+viscose,225
+S2,Fixed,cotton+elastane+viscose,221
+S2,Fixed,acrylic+nylon+polyester+wool,197
+S2,Fixed,elastane+polyester+wool,165
+S2,Fixed,elastane+nylon+polyester,161
+S2,Fixed,elastane+nylon+viscose,155
+S2,Fixed,acrylic+elastane+nylon+polyester+wool,151
+S2,Fixed,cotton+elastane+elastomultiester,150
+S2,Fixed,acrylic+elastane+polyester+viscose,147
+S2,Fixed,cotton+linen+viscose,124
+S2,Fixed,cotton+elastane+lyocell™ modal,119
+S2,Fixed,acrylic+cotton+elastane+nylon+polyester,108
+S2,Fixed,nylon+polyester+wool,85
+S2,Fixed,linen+polyester+viscose,72
+S2,Fixed,linen+nylon+viscose,64
+S2,Fixed,elastane+polyester+viscose+wool,62
+S2,Fixed,polyester+viscose+wool,61
+S2,Fixed,cotton+elastomultiester+polyester,54
+S2,Fixed,acrylic+cotton+elastane+polyester,52
+S2,Fixed,elastane+metallised_fibre+nylon,48
+S2,Fixed,acrylic+cotton+elastane+nylon+polyester+viscose,46
+S2,Fixed,acrylic+cotton+polyester,42
+S2,Fixed,cotton+elastane+modal,41
+S2,Fixed,elastane+nylon+polyester+wool,41
+S2,Fixed,acrylic+elastane+viscose+wool,40
+S2,Fixed,cotton+elastane+polyester+viscose,38
+S2,Fixed,cotton+nylon+polyester,38
+S2,Fixed,cotton+elastane+linen,35
+S2,Fixed,cupro+elastane+nylon,35
+S2,Fixed,acrylic+nylon+polyester,33
+S2,Fixed,acrylic+nylon+polyester+viscose+wool,33
+S2,Fixed,elastane+lyocell+polyester,33
+S2,Fixed,acrylic+elastane+nylon+viscose,32
+S2,Fixed,polyester+unspecified_material+wool,32
+S2,Fixed,acrylic+elastane+modal+nylon+viscose,30
+S2,Fixed,cupro+elastane+polyester,30
+S2,Fixed,elastane+nylon+polyester+viscose,30
+S2,Fixed,linen+lyocell+nylon,28
+S2,Fixed,cotton+elastane+elastodiene+nylon,26
+S2,Fixed,elastane+modal+polyester,26
+S2,Fixed,acrylic+polyester+viscose,25
+S2,Fixed,cotton+modal+nylon,25
+S2,Fixed,elastane+metallised_fibre+polyester,25
+S2,Fixed,acrylic+cotton+elastane,23
+S2,Fixed,acrylic+elastane+nylon+wool,22
+S2,Fixed,cotton+metallised_fibre+polyester,22
+S2,Fixed,cotton+linen+lyocell,20
+S2,Fixed,cotton+nylon+viscose,19
+S2,Fixed,acrylic+nylon+wool,18
+S2,Fixed,cotton+nylon+polyester+wool,18
+S2,Fixed,cotton+elastane+metallised_fibre+polyester,16
+S2,Fixed,acrylic+elastane+nylon+polyester,15
+S2,Fixed,acrylic+elastane+polyester,15
+S2,Fixed,acrylic+elastane+nylon,14
+S2,Fixed,acrylic+cotton+nylon+polyester+viscose+wool,13
+S2,Fixed,acrylic+elastane+modal+nylon+polyester+viscose,13
+S2,Fixed,acrylic+elastane+polyester+viscose+wool,13
+S2,Fixed,cotton+elastane+lyocell,13
+S2,Fixed,cotton+elastane+nylon+wool,13
+S2,Fixed,cotton+elastane+nylon+viscose,12
+S2,Fixed,cotton+linen+nylon,10
+S2,Fixed,metallised_fibre+nylon+polyester,10
+S2,Fixed,acrylic+cotton+elastane+nylon+viscose,9
+S2,Fixed,acrylic+cotton+elastane+viscose,9
+S2,Fixed,cotton+elastane+lyocell+polyester,9
+S2,Fixed,linen+lyocell+viscose,9
+S2,Fixed,metallised_fibre+nylon+polyester+viscose,9
+S2,Fixed,acrylic+cotton+nylon,8
+S2,Fixed,acrylic+polyester+viscose+wool,8
+S2,Fixed,cotton+polyester+wool,8
+S2,Fixed,lyocell+nylon+polyester,8
+S2,Fixed,acrylic+cotton+elastane+polyester+viscose,7
+S2,Fixed,acrylic+cotton+lyocell+viscose,7
+S2,Fixed,cotton+elastane+polyester+wool,7
+S2,Fixed,elastane+lyocell+polyester+wool,7
+S2,Fixed,elastane+modal+nylon,7
+S2,Fixed,linen+nylon+polyester+viscose,7
+S2,Fixed,lyocell+polyester+viscose,7
+S2,Fixed,metallised_fibre+nylon+viscose,7
+S2,Fixed,acrylic+linen+lyocell,6
+S2,Fixed,acrylic+nylon+polyester+viscose,6
+S2,Fixed,cotton+elastane+metallised_fibre+nylon,6
+S2,Fixed,cotton+linen+polyester,6
+S2,Fixed,cotton+lyocell+silk,6
+S2,Fixed,elastane+nylon+polyester+viscose+wool,6
+S2,Fixed,elastane+nylon+viscose+wool,6
+S2,Fixed,nylon+polyester+unspecified_material+wool,6
+S2,Fixed,nylon+polyester+viscose+wool,6
+S2,Fixed,acetate+elastane+nylon,5
+S2,Fixed,acrylic+pbt+polyester+wool,5
+S2,Fixed,elastane+elastomultiester+polyester,5
+S2,Fixed,linen+polyester+wool,5
+S2,Fixed,metallised_fibre+polyester+viscose,5
+S2,Fixed,polyester+silk+viscose+wool,5
+S2,Fixed,acrylic+cotton+nylon+polyester,4
+S2,Fixed,acrylic+cotton+polyester+wool,4
+S2,Fixed,acrylic+modacrylic+polyester,4
+S2,Fixed,acrylic+nylon+viscose,4
+S2,Fixed,acrylic+pctg+polyester+polyurethane,4
+S2,Fixed,cotton+lyocell+nylon+viscose,4
+S2,Fixed,cotton+lyocell+polyester,4
+S2,Fixed,cotton+nylon+pbt+wool,4
+S2,Fixed,cotton+nylon+wool,4
+S2,Fixed,elastane+linen+viscose,4
+S2,Fixed,elastane+lyocell+polyester+viscose,4
+S2,Fixed,polyester+silk+viscose,4
+S2,Fixed,acrylic+metallised_fibre+polyester+viscose,3
+S2,Fixed,cotton+elastane+linen+polyester+viscose,3
+S2,Fixed,cotton+lyocell™ lyocell+nylon,3
+S2,Fixed,cotton+metallised_fibre+nylon,3
+S2,Fixed,cotton+metallised_fibre+nylon+polyester,3
+S2,Fixed,elastane+linen+polyester+viscose,3
+S2,Fixed,elastane+linen+viscose+wool,3
+S2,Fixed,elastane+nylon+polyethylene+unspecified_material,3
+S2,Fixed,linen+nylon+polyester,3
+S2,Fixed,nylon+silk+viscose,3
+S2,Fixed,polyester+resin+tpu,3
+S2,Fixed,acetate+cotton+viscose,2
+S2,Fixed,acetate+elastane+viscose,2
+S2,Fixed,acrylic+cotton+elastane+nylon+polyester - metallised+viscose,2
+S2,Fixed,acrylic+cotton+polyester+viscose,2
+S2,Fixed,acrylic+elastane+nylon+polyester+viscose+wool,2
+S2,Fixed,acrylic+pctg+polyester,2
+S2,Fixed,cotton+elastane+elastodiene+nylon+polyester,2
+S2,Fixed,cotton+elastane+linen+viscose,2
+S2,Fixed,cotton+elastane+lyocell+viscose,2
+S2,Fixed,cotton+elastane+metallised_fibre,2
+S2,Fixed,cotton+elastane+metallised_fibre+polyester+viscose,2
+S2,Fixed,cotton+elastane+nylon+polyester+viscose,2
+S2,Fixed,cotton+elastane+polystyrene,2
+S2,Fixed,cotton+elastane+wool,2
+S2,Fixed,cotton+linen+polyester+viscose,2
+S2,Fixed,cotton+lyocell+nylon,2
+S2,Fixed,cotton+metallised_fibre+polyester+viscose,2
+S2,Fixed,cotton+polyester+silk,2
+S2,Fixed,cupro+lyocell+nylon,2
+S2,Fixed,elastane+lyocell+nylon,2
+S2,Fixed,elastane+lyocell+nylon+polyester+viscose,2
+S2,Fixed,elastane+metallised_fibre+nylon+polyester,2
+S2,Fixed,elastane+metallised_fibre+nylon+polyester+viscose+wool,2
+S2,Fixed,elastane+metallised_fibre+polyester+viscose,2
+S2,Fixed,elastane+nylon+polyester+polyethylene,2
+S2,Fixed,elastane+viscose+wool,2
+S2,Fixed,linen+modal+viscose,2
+S2,Fixed,lyocell+silk+wool,2
+S2,Fixed,metallised_fibre+polyester+wool,2
+S2,Fixed,nylon+polyethylene terephthalate+viscose+wool,2
+S2,Fixed,nylon+unspecified_material+wool,2
+S2,Fixed,nylon+viscose+wool,2
+S2,Fixed,acetate+cotton+metallised_fibre,1
+S2,Fixed,acrylic+cotton+elastane+metallised_fibre+nylon+polyester+viscose,1
+S2,Fixed,acrylic+cotton+metallised_fibre+nylon+polyester+viscose+wool,1
+S2,Fixed,acrylic+cotton+metallised_fibre+polyester,1
+S2,Fixed,acrylic+cotton+nylon+polyester+viscose,1
+S2,Fixed,acrylic+cotton+nylon+polyester+wool,1
+S2,Fixed,acrylic+elastane+metallised_fibre+polyester+wool,1
+S2,Fixed,acrylic+elastane+pctg+polyester,1
+S2,Fixed,acrylic+lyocell+nylon+polyester+viscose+wool,1
+S2,Fixed,acrylic+metallised_fibre+nylon+polyester+wool,1
+S2,Fixed,acrylic+nylon+polyester+unspecified_material,1
+S2,Fixed,acrylic+nylon+polyester+unspecified_material+wool,1
+S2,Fixed,acrylic+polyester+unspecified_material,1
+S2,Fixed,acrylic+polyester+unspecified_material+wool,1
+S2,Fixed,acrylic+viscose+wool,1
+S2,Fixed,cotton+elastane+lyocell+wool,1
+S2,Fixed,cotton+elastane+metallised_fibre+nylon+polyester,1
+S2,Fixed,cotton+elastane+modal+polyester,1
+S2,Fixed,cotton+elastane+unspecified_material,1
+S2,Fixed,cotton+linen+lyocell+polyester,1
+S2,Fixed,cotton+linen+polyester+silk,1
+S2,Fixed,cotton+linen+ramie,1
+S2,Fixed,cotton+metallised_fibre+polyester+unspecified_material,1
+S2,Fixed,cotton+metallised_fibre+polyester+unspecified_material+viscose+wool,1
+S2,Fixed,cotton+metallised_fibre+viscose,1
+S2,Fixed,cotton+nylon+polyester+viscose,1
+S2,Fixed,cotton+nylon+unspecified_material+wool,1
+S2,Fixed,cotton+pctg+polyester,1
+S2,Fixed,cotton+polyester+viscose+wool,1
+S2,Fixed,cotton+viscose+wool,1
+S2,Fixed,elastane+lyocell+polyester+silk+viscose,1
+S2,Fixed,elastane+metallised_fibre+nylon+polyester+wool,1
+S2,Fixed,elastane+modal+wool,1
+S2,Fixed,elastane+nylon+polypropylene,1
+S2,Fixed,elastane+nylon+wool+yak wool,1
+S2,Fixed,linen+lyocell+nylon+polyester,1
+S2,Fixed,linen+lyocell+nylon+viscose,1
+S2,Fixed,linen+lyocell+polyester,1
+S2,Fixed,linen+lyocell+polyester+viscose,1
+S2,Fixed,lyocell+polyester+unspecified_material+wool,1
+S2,Fixed,lyocell+polyester+wool,1
+S2,Fixed,modacrylic+polyester+viscose,1
+S2,Fixed,modal+nylon+viscose,1
+S2,Fixed,nylon+pbt+polyester+viscose,1
+S2,Fixed,nylon+polypropylene+wool,1
+S2,Fixed,silk+viscose+wool,1
+S3,10% threshold,elastane,13483
+S3,10% threshold,wool,1583
+S3,10% threshold,nylon,647
+S3,10% threshold,polyester,538
+S3,10% threshold,viscose,408
+S3,10% threshold,metallised_fibre,137
+S3,10% threshold,elastomultiester,124
+S3,10% threshold,linen,89
+S3,10% threshold,acrylic,79
+S3,10% threshold,cotton,31
+S3,10% threshold,unspecified_material,30
+S3,10% threshold,elastodiene,28
+S3,10% threshold,lyocell,15
+S3,10% threshold,silk,13
+S3,10% threshold,modal,3
+S3,10% threshold,polyurethane,3
+S3,10% threshold,yak wool,3
+S3,10% threshold,polyester - metallised,2
+S3,10% threshold,pbt,1
+S3,10% threshold,polypropylene,1
+S3,3% threshold,elastane,4205
+S3,3% threshold,nylon,194
+S3,3% threshold,polyester,147
+S3,3% threshold,elastomultiester,107
+S3,3% threshold,viscose,79
+S3,3% threshold,metallised_fibre,43
+S3,3% threshold,acrylic,37
+S3,3% threshold,wool,19
+S3,3% threshold,cotton,15
+S3,3% threshold,linen,15
+S3,3% threshold,unspecified_material,10
+S3,3% threshold,elastodiene,2
+S3,3% threshold,lyocell,2
+S3,3% threshold,polypropylene,1
+S3,5% threshold,elastane,7759
+S3,5% threshold,nylon,290
+S3,5% threshold,polyester,280
+S3,5% threshold,viscose,205
+S3,5% threshold,wool,124
+S3,5% threshold,elastomultiester,108
+S3,5% threshold,metallised_fibre,63
+S3,5% threshold,acrylic,53
+S3,5% threshold,linen,42
+S3,5% threshold,unspecified_material,19
+S3,5% threshold,cotton,18
+S3,5% threshold,elastodiene,18
+S3,5% threshold,lyocell,7
+S3,5% threshold,silk,6
+S3,5% threshold,polyester - metallised,2
+S3,5% threshold,pbt,1
+S3,5% threshold,polypropylene,1
+S3,5% threshold,polyurethane,1
+S4,Contains 'black',black,6515
+S4,Contains 'black',black/floral,105
+S4,Contains 'black',black/white,98
+S4,Contains 'black',washed black,64
+S4,Contains 'black',white/black,63
+S4,Contains 'black',black/striped,53
+S4,Contains 'black',black/patterned,44
+S4,Contains 'black',beige/black,38
+S4,Contains 'black',denim black,37
+S4,Contains 'black',nearly black,34
+S4,Contains 'black',white/black striped,34
+S4,Contains 'black',black/cream,31
+S4,Contains 'black',black/pattern,30
+S4,Contains 'black',cream/black,30
+S4,Contains 'black',black/spotted,29
+S4,Contains 'black',black marl,25
+S4,Contains 'black',black/checked,25
+S4,Contains 'black',black/glittery,24
+S4,Contains 'black',white/black stripe,24
+S4,Contains 'black',black/stripe,21
+S4,Contains 'black',cream/black striped,20
+S4,Contains 'black',black/leopard print,18
+S4,Contains 'black',black/honda,17
+S4,Contains 'black',black/white striped,17
+S4,Contains 'black',black/gingham check,16
+S4,Contains 'black',black marle,15
+S4,Contains 'black',black/pokémon,15
+S4,Contains 'black',white/black floral,15
+S4,Contains 'black',black/washed out,14
+S4,Contains 'black',black/zebra print,14
+S4,Contains 'black',pink/black,14
+S4,Contains 'black',black/white floral,13
+S4,Contains 'black',black/hearts,12
+S4,Contains 'black',black/silver-coloured,11
+S4,Contains 'black',black/white stripe,11
+S4,Contains 'black',denim blue/black,11
+S4,Contains 'black',black rinse - black,10
+S4,Contains 'black',black/check,10
+S4,Contains 'black',black/batman,9
+S4,Contains 'black',black/polka dot,9
+S4,Contains 'black',black/skeleton,9
+S4,Contains 'black',black/white patterned,9
+S4,Contains 'black',cream/black floral,9
+S4,Contains 'black',red/black,9
+S4,Contains 'black',tuned black - black,9
+S4,Contains 'black',white/black patterned,9
+S4,Contains 'black',black/dogtooth pattern,8
+S4,Contains 'black',black/pinstriped,8
+S4,Contains 'black',black/sonic the hedgehog,8
+S4,Contains 'black',black/spot,8
+S4,Contains 'black',cream/black stripe,8
+S4,Contains 'black',black/flowers,7
+S4,Contains 'black',black/minecraft,7
+S4,Contains 'black',black/playstation,7
+S4,Contains 'black',cream/black patterned,7
+S4,Contains 'black',grey/black,7
+S4,Contains 'black',black/grey,6
+S4,Contains 'black',black/guns n' roses,6
+S4,Contains 'black',black/heart,6
+S4,Contains 'black',black/nirvana,6
+S4,Contains 'black',black/pinstripe,6
+S4,Contains 'black',grey marle/black,6
+S4,Contains 'black',light grey marl/black,6
+S4,Contains 'black',white/black pattern,6
+S4,Contains 'black',beige/black/white,5
+S4,Contains 'black',black/beige,5
+S4,Contains 'black',black/dot,5
+S4,Contains 'black',black/grey marle,5
+S4,Contains 'black',black/harry potter,5
+S4,Contains 'black',black/light grey marl,5
+S4,Contains 'black',black/nasa,5
+S4,Contains 'black',black/paisley pattern,5
+S4,Contains 'black',black/paris,5
+S4,Contains 'black',black/star wars,5
+S4,Contains 'black',dark beige/black,5
+S4,Contains 'black',washed out black,5
+S4,Contains 'black',white/grey/black,5
+S4,Contains 'black',black/bats,4
+S4,Contains 'black',black/brown,4
+S4,Contains 'black',black/coated,4
+S4,Contains 'black',black/colour block,4
+S4,Contains 'black',black/cream patterned,4
+S4,Contains 'black',black/dark grey,4
+S4,Contains 'black',black/dogtooth-patterned,4
+S4,Contains 'black',black/ghosts,4
+S4,Contains 'black',black/grey marl,4
+S4,Contains 'black',black/hot wheels,4
+S4,Contains 'black',black/leaf pattern,4
+S4,Contains 'black',black/lilo & stitch,4
+S4,Contains 'black',black/metallica,4
+S4,Contains 'black',black/mickey mouse,4
+S4,Contains 'black',black/midnight run club,4
+S4,Contains 'black',black/nba,4
+S4,Contains 'black',black/palm trees,4
+S4,Contains 'black',black/rhinestones,4
+S4,Contains 'black',black/smileyworld®,4
+S4,Contains 'black',black/stranger things,4
+S4,Contains 'black',black/unicorns,4
+S4,Contains 'black',black/zigzag pattern,4
+S4,Contains 'black',brown/black,4
+S4,Contains 'black',chelsea black - black,4
+S4,Contains 'black',dark blue/black,4
+S4,Contains 'black',dark grey/black,4
+S4,Contains 'black',grey marl/black,4
+S4,Contains 'black',light beige/black,4
+S4,Contains 'black',light grey/black,4
+S4,Contains 'black',light pink/white/black,4
+S4,Contains 'black',off white/black,4
+S4,Contains 'black',pink/white/black,4
+S4,Contains 'black',washed denim black,4
+S4,Contains 'black',black/beetlejuice,3
+S4,Contains 'black',black/beige striped,3
+S4,Contains 'black',black/block colour,3
+S4,Contains 'black',black/cream striped,3
+S4,Contains 'black',black/ford,3
+S4,Contains 'black',black/game controller,3
+S4,Contains 'black',black/golden sunset,3
+S4,Contains 'black',black/herringbone pattern,3
+S4,Contains 'black',black/keith haring,3
+S4,Contains 'black',black/khaki green/white,3
+S4,Contains 'black',black/light beige,3
+S4,Contains 'black',black/light denim blue,3
+S4,Contains 'black',black/light grey,3
+S4,Contains 'black',black/new york,3
+S4,Contains 'black',black/pink floyd,3
+S4,Contains 'black',black/pulp fiction,3
+S4,Contains 'black',black/spider-man,3
+S4,Contains 'black',black/teddy bears,3
+S4,Contains 'black',black/tie-dye,3
+S4,Contains 'black',black/white checked,3
+S4,Contains 'black',blue/black,3
+S4,Contains 'black',grey marl/white/black,3
+S4,Contains 'black',light blue/black,3
+S4,Contains 'black',light grey marle/black,3
+S4,Contains 'black',light pink/cream/black,3
+S4,Contains 'black',navy blue/black,3
+S4,Contains 'black',pinstriped black,3
+S4,Contains 'black',purple/black,3
+S4,Contains 'black',white / black,3
+S4,Contains 'black',white/grey marl/black,3
+S4,Contains 'black',beige/black check,2
+S4,Contains 'black',beige/black checked,2
+S4,Contains 'black',beige/black hearts,2
+S4,Contains 'black',beige/grey/black,2
+S4,Contains 'black',beige/white/black,2
+S4,Contains 'black',black & beige,2
+S4,Contains 'black',black & grey stripes,2
+S4,Contains 'black',black - rhinestones,2
+S4,Contains 'black',black / white / striped,2
+S4,Contains 'black',black/05,2
+S4,Contains 'black',black/argyle pattern,2
+S4,Contains 'black',black/bat,2
+S4,Contains 'black',black/beige stripe,2
+S4,Contains 'black',black/billie eilish,2
+S4,Contains 'black',black/blue,2
+S4,Contains 'black',black/bow,2
+S4,Contains 'black',black/brown/light turquoise,2
+S4,Contains 'black',black/brown/white,2
+S4,Contains 'black',black/cat,2
+S4,Contains 'black',black/coca-cola,2
+S4,Contains 'black',black/crocodile-patterned,2
+S4,Contains 'black',black/dark blue,2
+S4,Contains 'black',black/denim blue,2
+S4,Contains 'black',black/denim grey,2
+S4,Contains 'black',black/disney,2
+S4,Contains 'black',black/dungeons & dragons,2
+S4,Contains 'black',black/fender,2
+S4,Contains 'black',black/gold-coloured,2
+S4,Contains 'black',black/green,2
+S4,Contains 'black',black/grey/blue,2
+S4,Contains 'black',black/grey/denim blue,2
+S4,Contains 'black',black/heartbreaker season,2
+S4,Contains 'black',black/herringbone-patterned,2
+S4,Contains 'black',black/iconic mode,2
+S4,Contains 'black',black/iron maiden,2
+S4,Contains 'black',black/keep the wild,2
+S4,Contains 'black',black/khaki green,2
+S4,Contains 'black',black/leaf-patterned,2
+S4,Contains 'black',black/lego ninjago,2
+S4,Contains 'black',black/light blue,2
+S4,Contains 'black',black/light green/light beige,2
+S4,Contains 'black',black/light grey marle,2
+S4,Contains 'black',black/light pink,2
+S4,Contains 'black',black/looney tunes,2
+S4,Contains 'black',black/marine life,2
+S4,Contains 'black',black/marvel comics,2
+S4,Contains 'black',black/matte,2
+S4,Contains 'black',black/no love just fire,2
+S4,Contains 'black',black/nptc,2
+S4,Contains 'black',black/oasis,2
+S4,Contains 'black',black/off white,2
+S4,Contains 'black',black/ombre,2
+S4,Contains 'black',black/pink,2
+S4,Contains 'black',black/pink leaves,2
+S4,Contains 'black',black/plants,2
+S4,Contains 'black',black/reebok,2
+S4,Contains 'black',black/rib,2
+S4,Contains 'black',black/sequins,2
+S4,Contains 'black',black/silver colour,2
+S4,Contains 'black',black/silver heart,2
+S4,Contains 'black',black/skulls,2
+S4,Contains 'black',black/small flowers,2
+S4,Contains 'black',black/snoopy,2
+S4,Contains 'black',black/soho nyc,2
+S4,Contains 'black',black/space jam,2
+S4,Contains 'black',black/spider,2
+S4,Contains 'black',black/stars,2
+S4,Contains 'black',black/sunset b-ball,2
+S4,Contains 'black',black/the grinch,2
+S4,Contains 'black',black/txrt,2
+S4,Contains 'black',black/white check,2
+S4,Contains 'black',black/white/cream,2
+S4,Contains 'black',black/wicked,2
+S4,Contains 'black',blue/burgundy/grey/black,2
+S4,Contains 'black',blue/white/black,2
+S4,Contains 'black',bright blue/white/black,2
+S4,Contains 'black',brown/black check,2
+S4,Contains 'black',brown/black checked,2
+S4,Contains 'black',brown/light pink/black,2
+S4,Contains 'black',burgundy/grey/black,2
+S4,Contains 'black',chafe black,2
+S4,Contains 'black',cream/black hearts,2
+S4,Contains 'black',cream/black pattern,2
+S4,Contains 'black',dark khaki green/black/white,2
+S4,Contains 'black',dark sage green/black,2
+S4,Contains 'black',dusty green/black,2
+S4,Contains 'black',elegie black - black,2
+S4,Contains 'black',extra black rinse,2
+S4,Contains 'black',green/white/black,2
+S4,Contains 'black',grey/burgundy/black,2
+S4,Contains 'black',ink black - black,2
+S4,Contains 'black',light beige/black patterned,2
+S4,Contains 'black',light beige/black stripe,2
+S4,Contains 'black',light beige/white/black,2
+S4,Contains 'black',light burgundy/black/white,2
+S4,Contains 'black',light pink/black,2
+S4,Contains 'black',light pink/black/white,2
+S4,Contains 'black',light purple/black,2
+S4,Contains 'black',light turquoise/black,2
+S4,Contains 'black',off black,2
+S4,Contains 'black',orange/black/white,2
+S4,Contains 'black',pink/cream/black,2
+S4,Contains 'black',powder pink/black/white,2
+S4,Contains 'black',red/grey/black,2
+S4,Contains 'black',redondo black - black,2
+S4,Contains 'black',redondo black - washed black,2
+S4,Contains 'black',risso black - black,2
+S4,Contains 'black',sea green/black/white,2
+S4,Contains 'black',washed black/batman,2
+S4,Contains 'black',white/black/light grey marl,2
+S4,Contains 'black',white/navy blue/black,2
+S4,Contains 'black',yellow/white/black,2
+S4,Contains 'black',almost black - black,1
+S4,Contains 'black',beige marle/black,1
+S4,Contains 'black',beige/black stripes,1
+S4,Contains 'black',beige/cream/black,1
+S4,Contains 'black',black & white - bear spray,1
+S4,Contains 'black',black & white stripe - dreams,1
+S4,Contains 'black',black & white stripes,1
+S4,Contains 'black',black - beige stripe,1
+S4,Contains 'black',black - bunny,1
+S4,Contains 'black',black - cosmic eagle,1
+S4,Contains 'black',black - crocodile print,1
+S4,Contains 'black',black - dragon gate,1
+S4,Contains 'black',black - heart of energy,1
+S4,Contains 'black',black - heartbeat,1
+S4,Contains 'black',black - team building,1
+S4,Contains 'black',black / ivory / striped,1
+S4,Contains 'black',black / striped,1
+S4,Contains 'black',black baroque print,1
+S4,Contains 'black',black check,1
+S4,Contains 'black',black checked,1
+S4,Contains 'black',black moon - grey,1
+S4,Contains 'black',black moon - washed black,1
+S4,Contains 'black',black mélange,1
+S4,Contains 'black',black polka dot,1
+S4,Contains 'black',black polka dots,1
+S4,Contains 'black',black space dye,1
+S4,Contains 'black',black spray wash,1
+S4,Contains 'black',black top rinse,1
+S4,Contains 'black',black/03,1
+S4,Contains 'black',black/1,1
+S4,Contains 'black',black/101 dalmatians,1
+S4,Contains 'black',black/22,1
+S4,Contains 'black',black/a,1
+S4,Contains 'black',black/active,1
+S4,Contains 'black',black/all is good,1
+S4,Contains 'black',black/angel mind,1
+S4,Contains 'black',black/appetites,1
+S4,Contains 'black',black/argentina,1
+S4,Contains 'black',black/avenue,1
+S4,Contains 'black',black/bat eyes,1
+S4,Contains 'black',black/batgirl,1
+S4,Contains 'black',black/bee,1
+S4,Contains 'black',black/beige floral,1
+S4,Contains 'black',black/beige patterned,1
+S4,Contains 'black',black/beige/green/white,1
+S4,Contains 'black',black/beige/white,1
+S4,Contains 'black',black/beverly hills,1
+S4,Contains 'black',black/black,1
+S4,Contains 'black',black/block-coloured,1
+S4,Contains 'black',black/brown pattern,1
+S4,Contains 'black',black/brown/green,1
+S4,Contains 'black',black/campioni del mondo,1
+S4,Contains 'black',black/cerro castillo,1
+S4,Contains 'black',black/champs,1
+S4,Contains 'black',black/christmas tree,1
+S4,Contains 'black',black/cream pattern,1
+S4,Contains 'black',black/cream spot,1
+S4,Contains 'black',black/cream spotted,1
+S4,Contains 'black',black/célébrité,1
+S4,Contains 'black',black/dark blue/grey marle,1
+S4,Contains 'black',black/dark denim blue,1
+S4,Contains 'black',black/dark grey marl,1
+S4,Contains 'black',black/dark grey/white,1
+S4,Contains 'black',black/dark khaki green,1
+S4,Contains 'black',black/denim blue/light grey,1
+S4,Contains 'black',black/dinosaur,1
+S4,Contains 'black',black/dogs,1
+S4,Contains 'black',black/dopamine,1
+S4,Contains 'black',black/dopamine rush,1
+S4,Contains 'black',black/dusty mauve,1
+S4,Contains 'black',black/e-zone,1
+S4,Contains 'black',black/epic gamer,1
+S4,Contains 'black',black/euphoria,1
+S4,Contains 'black',black/fielders clubhouse,1
+S4,Contains 'black',black/five boroughs,1
+S4,Contains 'black',black/floral print,1
+S4,Contains 'black',black/florida gators,1
+S4,Contains 'black',black/giddy up,1
+S4,Contains 'black',black/golden,1
+S4,Contains 'black',black/graffiti,1
+S4,Contains 'black',black/green day,1
+S4,Contains 'black',black/green/beige,1
+S4,Contains 'black',black/green/light beige,1
+S4,Contains 'black',black/grey check,1
+S4,Contains 'black',black/grey melange,1
+S4,Contains 'black',black/grey pattern,1
+S4,Contains 'black',black/grey patterned,1
+S4,Contains 'black',black/grey/dark khaki green,1
+S4,Contains 'black',black/happy xmas,1
+S4,Contains 'black',black/i'm not in the mood,1
+S4,Contains 'black',black/ice cube,1
+S4,Contains 'black',black/jolly season,1
+S4,Contains 'black',black/jump,1
+S4,Contains 'black',black/khaki green/light beige,1
+S4,Contains 'black',black/kodak,1
+S4,Contains 'black',black/la,1
+S4,Contains 'black',black/la brea,1
+S4,Contains 'black',black/la cali,1
+S4,Contains 'black',black/lemons,1
+S4,Contains 'black',black/leopard,1
+S4,Contains 'black',black/leopards,1
+S4,Contains 'black',black/let's explore the city,1
+S4,Contains 'black',black/light brown,1
+S4,Contains 'black',black/light dusty pink,1
+S4,Contains 'black',black/light pink/dark red,1
+S4,Contains 'black',black/light pink/white,1
+S4,Contains 'black',black/light purple,1
+S4,Contains 'black',black/marbled,1
+S4,Contains 'black',black/mauritz,1
+S4,Contains 'black',black/minnie mouse,1
+S4,Contains 'black',black/motörhead,1
+S4,Contains 'black',black/move sports,1
+S4,Contains 'black',black/moving forward,1
+S4,Contains 'black',black/n.y.c club,1
+S4,Contains 'black',black/naruto,1
+S4,Contains 'black',black/navy blue/brown,1
+S4,Contains 'black',black/northern rockies,1
+S4,Contains 'black',black/nt,1
+S4,Contains 'black',black/ny,1
+S4,Contains 'black',black/original,1
+S4,Contains 'black',black/originals,1
+S4,Contains 'black',black/out of service,1
+S4,Contains 'black',black/paisley-patterned,1
+S4,Contains 'black',black/panels,1
+S4,Contains 'black',black/pasadena,1
+S4,Contains 'black',black/phys. ed. class,1
+S4,Contains 'black',black/pleat,1
+S4,Contains 'black',black/positive impact,1
+S4,Contains 'black',black/post malone,1
+S4,Contains 'black',black/powered by movement,1
+S4,Contains 'black',black/purple,1
+S4,Contains 'black',black/ribbed,1
+S4,Contains 'black',black/rocky,1
+S4,Contains 'black',black/shibuya,1
+S4,Contains 'black',black/simon pietersz verelst,1
+S4,Contains 'black',black/snakeskin-patterned,1
+S4,Contains 'black',black/soho,1
+S4,Contains 'black',black/sp,1
+S4,Contains 'black',black/space,1
+S4,Contains 'black',black/spaceship,1
+S4,Contains 'black',black/speed lane,1
+S4,Contains 'black',black/spiders,1
+S4,Contains 'black',black/spongebob,1
+S4,Contains 'black',black/sports dept.,1
+S4,Contains 'black',black/star mmx,1
+S4,Contains 'black',black/start strong,1
+S4,Contains 'black',black/statue of liberty,1
+S4,Contains 'black',black/stumble guys,1
+S4,Contains 'black',black/summer vibes,1
+S4,Contains 'black',black/sunset,1
+S4,Contains 'black',black/super mario,1
+S4,Contains 'black',black/teal/brown,1
+S4,Contains 'black',black/team meadows,1
+S4,Contains 'black',black/the cure,1
+S4,Contains 'black',black/the mandalorian,1
+S4,Contains 'black',black/the notorious b.i.g.,1
+S4,Contains 'black',black/the simpsons,1
+S4,Contains 'black',black/tmnt,1
+S4,Contains 'black',black/turbo,1
+S4,Contains 'black',black/unicorn,1
+S4,Contains 'black',black/waves,1
+S4,Contains 'black',black/wednesday,1
+S4,Contains 'black',black/white marle,1
+S4,Contains 'black',black/white/beige,1
+S4,Contains 'black',black/white/dark blue,1
+S4,Contains 'black',black/white/dark green,1
+S4,Contains 'black',black/white/green,1
+S4,Contains 'black',black/white/grey,1
+S4,Contains 'black',black/white/navy,1
+S4,Contains 'black',black/world wide,1
+S4,Contains 'black',black/wuthering heights,1
+S4,Contains 'black',black/young hearts,1
+S4,Contains 'black',blue/black/white,1
+S4,Contains 'black',blue/grey/black,1
+S4,Contains 'black',bright red/black,1
+S4,Contains 'black',brown/cream/black,1
+S4,Contains 'black',cerise/black,1
+S4,Contains 'black',cream/beige/brown/black,1
+S4,Contains 'black',cream/black check,1
+S4,Contains 'black',cream/black checked,1
+S4,Contains 'black',dark brown/black,1
+S4,Contains 'black',dark brown/black pattern,1
+S4,Contains 'black',dark brown/black patterned,1
+S4,Contains 'black',dark denim blue/black,1
+S4,Contains 'black',dark grey marl/black,1
+S4,Contains 'black',dark grey marle/black,1
+S4,Contains 'black',dark grey/blackpink,1
+S4,Contains 'black',dark grey/cream/black,1
+S4,Contains 'black',dark mole/black,1
+S4,Contains 'black',dark purple/off-white/black,1
+S4,Contains 'black',dark red/white/black,1
+S4,Contains 'black',dark turquoise/black,1
+S4,Contains 'black',dark turquoise/black/white,1
+S4,Contains 'black',denim black/denim blue,1
+S4,Contains 'black',denim black/spotted,1
+S4,Contains 'black',dusty blue/black,1
+S4,Contains 'black',dusty pink/black/white,1
+S4,Contains 'black',dusty white - black dots,1
+S4,Contains 'black',echo black - black,1
+S4,Contains 'black',eulogy black - black,1
+S4,Contains 'black',faded black,1
+S4,Contains 'black',green / black,1
+S4,Contains 'black',green/black/grey marl/white,1
+S4,Contains 'black',green/black/grey marle/white,1
+S4,Contains 'black',green/grey/black,1
+S4,Contains 'black',grey black,1
+S4,Contains 'black',grey green/white/black,1
+S4,Contains 'black',grey marle/white/black,1
+S4,Contains 'black',grey/blue/black,1
+S4,Contains 'black',grey/yellow/black,1
+S4,Contains 'black',haunted black - black,1
+S4,Contains 'black',khaki green/black,1
+S4,Contains 'black',khaki green/black/white,1
+S4,Contains 'black',light beige/black striped,1
+S4,Contains 'black',light beige/grey/black,1
+S4,Contains 'black',light beige/pink/black,1
+S4,Contains 'black',light blue/black stripes,1
+S4,Contains 'black',light blue/white/black,1
+S4,Contains 'black',light brown/black,1
+S4,Contains 'black',light denim blue/black,1
+S4,Contains 'black',light denim blue/denim black,1
+S4,Contains 'black',light green/dark green/black,1
+S4,Contains 'black',light grey marl/black/white,1
+S4,Contains 'black',light grey marle/white/black,1
+S4,Contains 'black',light grey/dark grey/black,1
+S4,Contains 'black',light peach/black,1
+S4,Contains 'black',light pink/black/dark grey,1
+S4,Contains 'black',light purple/black/white,1
+S4,Contains 'black',paloma black - black,1
+S4,Contains 'black',phantom black - black,1
+S4,Contains 'black',pink/black striped,1
+S4,Contains 'black',pink/grey/black,1
+S4,Contains 'black',powder pink/black/cream,1
+S4,Contains 'black',powder pink/white/black,1
+S4,Contains 'black',purple/pink/black,1
+S4,Contains 'black',radio black - black,1
+S4,Contains 'black',red/black check,1
+S4,Contains 'black',red/black checked,1
+S4,Contains 'black',red/black dogtooth pattern,1
+S4,Contains 'black',red/black stripe,1
+S4,Contains 'black',red/black/grey,1
+S4,Contains 'black',sea green/black,1
+S4,Contains 'black',sea green/grey/black,1
+S4,Contains 'black',striped black,1
+S4,Contains 'black',studded black,1
+S4,Contains 'black',teal/black,1
+S4,Contains 'black',tuned black,1
+S4,Contains 'black',turquoise/black,1
+S4,Contains 'black',vintage black,1
+S4,Contains 'black',vintage black/golden,1
+S4,Contains 'black',washed black - dragon gaze,1
+S4,Contains 'black',washed black - system,1
+S4,Contains 'black',washed black/nyc,1
+S4,Contains 'black',washed studded black,1
+S4,Contains 'black',washed-out black,1
+S4,Contains 'black',white - black binding,1
+S4,Contains 'black',white - black stripe,1
+S4,Contains 'black',white - black/green/blue,1
+S4,Contains 'black',white / black / checked,1
+S4,Contains 'black',white / black / striped,1
+S4,Contains 'black',white/beige/black,1
+S4,Contains 'black',white/beige/grey/black,1
+S4,Contains 'black',white/black checked,1
+S4,Contains 'black',white/black hearts,1
+S4,Contains 'black',white/black marl,1
+S4,Contains 'black',white/black/light grey marle,1
+S4,Contains 'black',white/brown/black,1
+S4,Contains 'black',white/dark grey/black,1
+S4,Contains 'black',white/grey marle/black,1
+S4,Contains 'black',white/light beige/black,1
+S4,Contains 'black',white/pink/black,1
+S4,Contains 'black',yellow/black,1
+S4,Exact black,black,6515
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__lining[polyester],574
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__lining[cotton],446
+S5,>5% concealed-material mismatch,shell[cotton]__lining[polyester],250
+S5,>5% concealed-material mismatch,shell[nylon]__lining[polyester],137
+S5,>5% concealed-material mismatch,coating[polyurethane]__lining[polyester],123
+S5,>5% concealed-material mismatch,shell[nylon]__padding[polyester],110
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__cup_lining[polyester],89
+S5,>5% concealed-material mismatch,shell[nylon+viscose]__lining[polyester],80
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__lining[polyester],78
+S5,>5% concealed-material mismatch,shell[linen+viscose]__lining[polyester],70
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__cup_lining[polyester],67
+S5,>5% concealed-material mismatch,shell[polyester]__lining[cotton],64
+S5,>5% concealed-material mismatch,shell[linen+viscose]__lining[cotton],59
+S5,>5% concealed-material mismatch,face[nylon]__filling[polyester],56
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__lining[nylon],48
+S5,>5% concealed-material mismatch,shell[cotton]__padding[polyester],46
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__lining[polyester],44
+S5,>5% concealed-material mismatch,shell[nylon+viscose]__lining[cotton],44
+S5,>5% concealed-material mismatch,shell[polyester]__lining[elastane],41
+S5,>5% concealed-material mismatch,shell[polyester]__lining[nylon],38
+S5,>5% concealed-material mismatch,shell[cotton+linen]__lining[polyester],35
+S5,>5% concealed-material mismatch,body[elastane+nylon]__cup_lining[polyester],33
+S5,>5% concealed-material mismatch,shell[lyocell+nylon]__lining[polyester],33
+S5,>5% concealed-material mismatch,shell[nylon]__lining[cotton],31
+S5,>5% concealed-material mismatch,shell[elastane+nylon+viscose]__lining[polyester],30
+S5,>5% concealed-material mismatch,shell[linen]__lining[polyester],29
+S5,>5% concealed-material mismatch,shell[polyester]__lining[viscose],26
+S5,>5% concealed-material mismatch,shell[cupro+elastane+polyester]__lining[nylon],24
+S5,>5% concealed-material mismatch,shell[linen]__lining[cotton],24
+S5,>5% concealed-material mismatch,shell[viscose]__lining[polyester],24
+S5,>5% concealed-material mismatch,main[elastane+nylon]__lining[polyester],23
+S5,>5% concealed-material mismatch,shell[polyester+wool]__lining[viscose],22
+S5,>5% concealed-material mismatch,shell[nylon+polyester]__lining[cotton],21
+S5,>5% concealed-material mismatch,shell[wool]__lining[viscose],20
+S5,>5% concealed-material mismatch,shell[cotton]__sleeve_lining[polyester],19
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__padding[polyester],19
+S5,>5% concealed-material mismatch,body[cotton]__hood_lining[polyester],16
+S5,>5% concealed-material mismatch,coating[polyurethane]__padding[polyester],16
+S5,>5% concealed-material mismatch,shell[cotton+lyocell]__lining[polyester],16
+S5,>5% concealed-material mismatch,shell[elastane+polyester+viscose]__lining[cotton],16
+S5,>5% concealed-material mismatch,shell[metallised_fibre+viscose]__lining[polyester],16
+S5,>5% concealed-material mismatch,shell[nylon]__filling[polyester],14
+S5,>5% concealed-material mismatch,pocket_lining[cotton]__hood_lining[polyester],13
+S5,>5% concealed-material mismatch,shell[cotton+viscose]__lining[polyester],13
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__lining[cotton],13
+S5,>5% concealed-material mismatch,shell[elastomultiester+polyester]__body_filling[down],13
+S5,>5% concealed-material mismatch,shell[nylon]__padding[reprocessed down],13
+S5,>5% concealed-material mismatch,body[cotton+elastane]__cup_lining[polyester],12
+S5,>5% concealed-material mismatch,front_panel[elastane+nylon]__cup_lining[polyester],12
+S5,>5% concealed-material mismatch,shell[polyester+viscose]__lining[cotton],12
+S5,>5% concealed-material mismatch,shell[polyester]__hood_lining[cotton],12
+S5,>5% concealed-material mismatch,main[nylon]__padding[polyester],11
+S5,>5% concealed-material mismatch,shell[cotton+linen+viscose]__lining[polyester],11
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__filling[polyester],11
+S5,>5% concealed-material mismatch,shell[cotton]__lining[viscose],11
+S5,>5% concealed-material mismatch,shell[lamb leather]__lining[viscose],11
+S5,>5% concealed-material mismatch,shell[cotton+elastane+nylon+viscose]__cup_lining[polyester],10
+S5,>5% concealed-material mismatch,shell[cotton+nylon+viscose]__lining[polyester],10
+S5,>5% concealed-material mismatch,shell[linen]__body_lining[polyester],10
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__padding[polyester],9
+S5,>5% concealed-material mismatch,shell[cotton+polyester]__lining[viscose],9
+S5,>5% concealed-material mismatch,shell[cotton]__inner_layer[polyester],9
+S5,>5% concealed-material mismatch,shell[elastane+nylon+polyester]__lining[cotton],9
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__inner_layer[polyester],9
+S5,>5% concealed-material mismatch,shell[elastane+polyester+wool]__lining[viscose],9
+S5,>5% concealed-material mismatch,shell[leather]__lining[polyester],9
+S5,>5% concealed-material mismatch,shell[lyocell+nylon]__lining[cotton],9
+S5,>5% concealed-material mismatch,shell[sheep leather]__lining[viscose],9
+S5,>5% concealed-material mismatch,body[elastane+nylon]__lining[polyester],8
+S5,>5% concealed-material mismatch,body[linen+polyester+viscose]__petticoat[elastomultiester],8
+S5,>5% concealed-material mismatch,main[elastane+nylon]__cup_lining[polyester],8
+S5,>5% concealed-material mismatch,shell[cotton+elastane+nylon]__lining[polyester],8
+S5,>5% concealed-material mismatch,shell[leather]__lining[viscose],8
+S5,>5% concealed-material mismatch,shell[wool]__lining[polyester],8
+S5,>5% concealed-material mismatch,body[cotton+elastane+nylon]__cup_lining[polyester],7
+S5,>5% concealed-material mismatch,face[polyester]__lining[nylon],7
+S5,>5% concealed-material mismatch,lace[elastane+nylon]__lining[cotton],7
+S5,>5% concealed-material mismatch,shell[elastane+metallised_fibre+nylon]__lining[polyester],7
+S5,>5% concealed-material mismatch,shell[metallised_fibre+nylon]__lining[polyester],7
+S5,>5% concealed-material mismatch,shell[polyester]__upper_body_filling[down - recycled down],7
+S5,>5% concealed-material mismatch,body[polyester]__petticoat[elastomultiester],6
+S5,>5% concealed-material mismatch,main[elastane+nylon]__lining[cotton],6
+S5,>5% concealed-material mismatch,main[polyester]__lining[cotton],6
+S5,>5% concealed-material mismatch,shell[cotton+linen]__sleeve_lining[polyester],6
+S5,>5% concealed-material mismatch,shell[elastane+polyester+wool]__lining[cotton],6
+S5,>5% concealed-material mismatch,shell[linen+lyocell+nylon]__lining[cotton],6
+S5,>5% concealed-material mismatch,main[elastane+polyester+wool]__lining[cotton],5
+S5,>5% concealed-material mismatch,padding[reprocessed down+reprocessed feather]__lining[nylon],5
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__body_lining[polyester],5
+S5,>5% concealed-material mismatch,shell[cow leather]__lining[viscose],5
+S5,>5% concealed-material mismatch,shell[elastane+elastomultiester+polyester]__lining[cotton],5
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__lining[viscose],5
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__padding[reprocessed down],5
+S5,>5% concealed-material mismatch,shell[elastomultiester+polyester]__filling[down],5
+S5,>5% concealed-material mismatch,shell[linen]__lining[viscose],5
+S5,>5% concealed-material mismatch,shell[lyocell]__lining[cotton],5
+S5,>5% concealed-material mismatch,shell[nylon+wool]__lining[viscose],5
+S5,>5% concealed-material mismatch,shell[polyester+unspecified_material+wool]__lining[viscose],5
+S5,>5% concealed-material mismatch,shell[polyester+viscose]__lining[nylon],5
+S5,>5% concealed-material mismatch,shell[polyester]__inner_layer[elastane],5
+S5,>5% concealed-material mismatch,shell[polyester]__padding[reprocessed down],5
+S5,>5% concealed-material mismatch,shell[silk]__lining[viscose],5
+S5,>5% concealed-material mismatch,body[polyester+viscose]__lining[nylon],4
+S5,>5% concealed-material mismatch,face[cotton+nylon]__filling[polyester],4
+S5,>5% concealed-material mismatch,face[nylon]__body_filling[down],4
+S5,>5% concealed-material mismatch,main[cotton+elastane]__lining[polyester],4
+S5,>5% concealed-material mismatch,main[cotton]__lining[polyester],4
+S5,>5% concealed-material mismatch,main[elastane+polyester]__lining[cotton],4
+S5,>5% concealed-material mismatch,main[linen+viscose]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[acetate+wool]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[acrylic+elastane+nylon+viscose]__front_body_lining[polyester],4
+S5,>5% concealed-material mismatch,shell[cotton+elastane+elastomultiester]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__sleeve_lining[polyester],4
+S5,>5% concealed-material mismatch,shell[cotton+lyocell]__padding[polyester],4
+S5,>5% concealed-material mismatch,shell[elastane+metallised_fibre+nylon]__lining[cotton],4
+S5,>5% concealed-material mismatch,shell[elastane+polyester+wool]__body_lining[viscose],4
+S5,>5% concealed-material mismatch,shell[elastane+viscose]__inner_layer[polyester],4
+S5,>5% concealed-material mismatch,shell[elastomultiester]__body_filling[down],4
+S5,>5% concealed-material mismatch,shell[goat suede]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[linen+lyocell+nylon]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[linen+lyocell]__lining[cotton],4
+S5,>5% concealed-material mismatch,shell[linen+lyocell]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[linen+lyocell]__sleeve_lining[polyester],4
+S5,>5% concealed-material mismatch,shell[linen+nylon+viscose]__lining[polyester],4
+S5,>5% concealed-material mismatch,shell[nylon+viscose]__sleeve_lining[polyester],4
+S5,>5% concealed-material mismatch,shell[nylon]__filling[down],4
+S5,>5% concealed-material mismatch,shell[nylon]__inner_layer[polyester],4
+S5,>5% concealed-material mismatch,shell[polyester]__cup_lining[nylon],4
+S5,>5% concealed-material mismatch,shell[sheep leather]__lining[cotton],4
+S5,>5% concealed-material mismatch,shell[suede]__lining[polyester],4
+S5,>5% concealed-material mismatch,body[elastane+nylon]__inner_pants[polyester],3
+S5,>5% concealed-material mismatch,main[elastane+polyester+wool]__lining[acetate],3
+S5,>5% concealed-material mismatch,main[leather]__lining[viscose],3
+S5,>5% concealed-material mismatch,main[nylon]__padding[reprocessed down],3
+S5,>5% concealed-material mismatch,main[polyester+wool]__lining[viscose],3
+S5,>5% concealed-material mismatch,shell[acrylic+polyester+wool]__lining[viscose],3
+S5,>5% concealed-material mismatch,shell[cotton+elastane+nylon]__cup_lining[polyester],3
+S5,>5% concealed-material mismatch,shell[cotton+elastane+polyester]__lining[viscose],3
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__padding[polyester],3
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__lining[viscose],3
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__padding[reprocessed down],3
+S5,>5% concealed-material mismatch,shell[cotton+polyester]__lining[nylon],3
+S5,>5% concealed-material mismatch,shell[cotton+polyester]__sleeve_lining[viscose],3
+S5,>5% concealed-material mismatch,shell[cotton]__filling[polyester],3
+S5,>5% concealed-material mismatch,shell[cotton]__lining[elastane],3
+S5,>5% concealed-material mismatch,shell[cow leather]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[elastane+modal+nylon]__lining[cotton],3
+S5,>5% concealed-material mismatch,shell[elastane+polyester+viscose]__lining[elastomultiester],3
+S5,>5% concealed-material mismatch,shell[elastane+polyester+wool]__lining[acetate],3
+S5,>5% concealed-material mismatch,shell[goat leather]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[goat suede]__lining[viscose],3
+S5,>5% concealed-material mismatch,shell[linen+lyocell+viscose]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[linen+nylon+viscose]__lining[cotton],3
+S5,>5% concealed-material mismatch,shell[lyocell+polyester]__lining[cotton],3
+S5,>5% concealed-material mismatch,shell[lyocell]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[nylon]__body_filling[down],3
+S5,>5% concealed-material mismatch,shell[nylon]__lining[elastane],3
+S5,>5% concealed-material mismatch,shell[polyester+wool]__body_lining[viscose],3
+S5,>5% concealed-material mismatch,shell[polyester+wool]__lining[cotton],3
+S5,>5% concealed-material mismatch,shell[polyester]__body_filling[down],3
+S5,>5% concealed-material mismatch,shell[polyester]__body_filling[viscose],3
+S5,>5% concealed-material mismatch,shell[polyurethane]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[ramie]__lining[cotton],3
+S5,>5% concealed-material mismatch,shell[sheep leather]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[silk+viscose]__lining[polyester],3
+S5,>5% concealed-material mismatch,shell[viscose]__lining[cotton],3
+S5,>5% concealed-material mismatch,skirt[elastomultiester+polyester]__inner_pants[elastane],3
+S5,>5% concealed-material mismatch,coating[polyurethane]__lining[cotton],2
+S5,>5% concealed-material mismatch,main[cotton+elastane+linen]__lining[polyester],2
+S5,>5% concealed-material mismatch,main[cotton+nylon]__lining[polyester],2
+S5,>5% concealed-material mismatch,main[cotton+viscose]__lining[polyester],2
+S5,>5% concealed-material mismatch,main[cotton]__padding[polyester],2
+S5,>5% concealed-material mismatch,main[elastane+metallised_fibre+nylon]__lining[polyester],2
+S5,>5% concealed-material mismatch,main[elastane+polyester]__lining[nylon],2
+S5,>5% concealed-material mismatch,main[linen+polyester]__lining[cotton],2
+S5,>5% concealed-material mismatch,main[nylon+polyester]__padding[down],2
+S5,>5% concealed-material mismatch,main[nylon+viscose]__lining[cotton],2
+S5,>5% concealed-material mismatch,main[nylon+wool]__body_lining[viscose],2
+S5,>5% concealed-material mismatch,main[nylon+wool]__lining[acetate],2
+S5,>5% concealed-material mismatch,main[polyester]__lining[elastane],2
+S5,>5% concealed-material mismatch,main[polyester]__lining[viscose],2
+S5,>5% concealed-material mismatch,main[viscose]__lining[polyester],2
+S5,>5% concealed-material mismatch,main[wool]__lining[cotton],2
+S5,>5% concealed-material mismatch,outer_layer[polyester+wool]__inner_layer[cotton],2
+S5,>5% concealed-material mismatch,outer_layer[polyester]__inner_layer[nylon],2
+S5,>5% concealed-material mismatch,padding[polyester]__lining[elastane],2
+S5,>5% concealed-material mismatch,shell[cotton+elastane+viscose]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+linen+nylon]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+lyocell+nylon+viscose]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+lyocell+nylon]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+lyocell]__body_lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+modal]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__sleeve_lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+polyester]__sleeve_lining[nylon],2
+S5,>5% concealed-material mismatch,shell[cotton+wool]__body_lining[polyester],2
+S5,>5% concealed-material mismatch,shell[cotton+wool]__lining[viscose],2
+S5,>5% concealed-material mismatch,shell[cotton]__body_lining[polyester],2
+S5,>5% concealed-material mismatch,shell[elastane+lyocell+nylon+polyester+viscose]__lining[cotton],2
+S5,>5% concealed-material mismatch,shell[elastane+metallised_fibre+nylon]__padding[polyester],2
+S5,>5% concealed-material mismatch,shell[elastane+nylon+polyester+wool]__sleeve_lining[cotton],2
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__body_lining[polyester],2
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__padding[nylon],2
+S5,>5% concealed-material mismatch,shell[elastane+viscose+wool]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[lamb leather]__lining[cotton],2
+S5,>5% concealed-material mismatch,shell[linen+lyocell]__lining[viscose],2
+S5,>5% concealed-material mismatch,shell[linen+polyester+viscose]__lining[cotton],2
+S5,>5% concealed-material mismatch,shell[linen+wool]__lining[polyester],2
+S5,>5% concealed-material mismatch,shell[linen+wool]__lining[viscose],2
+S5,>5% concealed-material mismatch,shell[lyocell+polyester]__lining[viscose],2
+S5,>5% concealed-material mismatch,shell[nylon]__body_lining[polyester],2
+S5,>5% concealed-material mismatch,shell[nylon]__lining[viscose],2
+S5,>5% concealed-material mismatch,shell[nylon]__padding[down],2
+S5,>5% concealed-material mismatch,shell[polyester+viscose]__lining[elastane],2
+S5,>5% concealed-material mismatch,shell[polyester+wool]__lining[acetate],2
+S5,>5% concealed-material mismatch,shell[polyester]__body_lining[cotton],2
+S5,>5% concealed-material mismatch,shell[polyester]__inner_layer[nylon],2
+S5,>5% concealed-material mismatch,shell[polyester]__inner_layer[viscose],2
+S5,>5% concealed-material mismatch,shell[suede]__lining[viscose],2
+S5,>5% concealed-material mismatch,shell[viscose+wool]__lining[polyester],2
+S5,>5% concealed-material mismatch,upper[cotton]__inner_layer[polyester],2
+S5,>5% concealed-material mismatch,base_fabric[elastane+polyester+viscose]__lining[cotton],1
+S5,>5% concealed-material mismatch,coating[polyester]__lining[viscose],1
+S5,>5% concealed-material mismatch,face[elastane+nylon]__padding[polyester],1
+S5,>5% concealed-material mismatch,face[polyester]__padding[reprocessed down],1
+S5,>5% concealed-material mismatch,main[acetate]__padding[polyester],1
+S5,>5% concealed-material mismatch,main[acrylic+nylon+wool]__lining[acetate],1
+S5,>5% concealed-material mismatch,main[cotton+elastane+nylon]__padding[reprocessed down],1
+S5,>5% concealed-material mismatch,main[cotton+elastane+viscose]__cup_lining[nylon],1
+S5,>5% concealed-material mismatch,main[cotton+elastane]__cup_lining[polyester],1
+S5,>5% concealed-material mismatch,main[cotton+elastane]__lining[viscose],1
+S5,>5% concealed-material mismatch,main[cotton+elastane]__padding[polyester],1
+S5,>5% concealed-material mismatch,main[cotton+metallised_fibre+nylon]__lining[polyester],1
+S5,>5% concealed-material mismatch,main[cotton]__inner_layer[polyester],1
+S5,>5% concealed-material mismatch,main[cotton]__lining[viscose],1
+S5,>5% concealed-material mismatch,main[elastane+nylon+polyester]__inner_layer[rubber],1
+S5,>5% concealed-material mismatch,main[nylon+wool]__inner_layer[viscose],1
+S5,>5% concealed-material mismatch,main[nylon]__lining[viscose],1
+S5,>5% concealed-material mismatch,main[polyester]__padding[reprocessed down],1
+S5,>5% concealed-material mismatch,main[viscose]__lining[lyocell],1
+S5,>5% concealed-material mismatch,main[wool]__lining[acetate],1
+S5,>5% concealed-material mismatch,outer_layer[nylon]__padding[down],1
+S5,>5% concealed-material mismatch,shell[acetate+cotton+metallised_fibre]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[acetate]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[acrylic+cotton+nylon+polyester+wool]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[acrylic+modacrylic+polyester]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[acrylic+nylon+polyester+wool]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[cotton+elastane+linen]__lining[acetate],1
+S5,>5% concealed-material mismatch,shell[cotton+elastane+lyocell+viscose]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton+elastane+lyocell+wool]__padding[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__cup_lining[nylon],1
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__lining[nylon],1
+S5,>5% concealed-material mismatch,shell[cotton+elastane]__padding[polyurethane],1
+S5,>5% concealed-material mismatch,shell[cotton+elastomultiester]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton+linen+ramie]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton+linen]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[cotton+linen]__padding[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton+metallised_fibre+nylon]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton+metallised_fibre+polyester]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[cotton+nylon+unspecified_material+wool]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[cotton+nylon]__body_lining[lyocell],1
+S5,>5% concealed-material mismatch,shell[cotton+polyester]__lining[elastane],1
+S5,>5% concealed-material mismatch,shell[cotton+polyester]__lining[rubber],1
+S5,>5% concealed-material mismatch,shell[cotton+wool]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton]__body_lining[nylon],1
+S5,>5% concealed-material mismatch,shell[cotton]__hood_lining[polyester],1
+S5,>5% concealed-material mismatch,shell[cotton]__inner_layer[viscose],1
+S5,>5% concealed-material mismatch,shell[cotton]__lining[wool],1
+S5,>5% concealed-material mismatch,shell[cupro+lyocell+nylon]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[elastane+linen+viscose]__lining[acetate],1
+S5,>5% concealed-material mismatch,shell[elastane+metallised_fibre+nylon]__cup_lining[polyester],1
+S5,>5% concealed-material mismatch,shell[elastane+nylon+polyester]__padding[reprocessed down],1
+S5,>5% concealed-material mismatch,shell[elastane+nylon+viscose]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__cup_lining[polyester resin],1
+S5,>5% concealed-material mismatch,shell[elastane+nylon]__padding[polyurethane],1
+S5,>5% concealed-material mismatch,shell[elastane+polyester+viscose]__hood_lining[cotton],1
+S5,>5% concealed-material mismatch,shell[elastane+polyester+viscose]__lining[nylon],1
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__cup_lining[cotton],1
+S5,>5% concealed-material mismatch,shell[elastane+polyester]__inner_layer[nylon],1
+S5,>5% concealed-material mismatch,shell[elastane+viscose]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[elastane+wool]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[lamb leather]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[linen+lyocell+polyester]__inner_layer[viscose],1
+S5,>5% concealed-material mismatch,shell[linen+lyocell]__body_lining[polyester],1
+S5,>5% concealed-material mismatch,shell[linen+polyester+wool]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[linen+polyester+wool]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[linen+wool]__lining[polypropylene],1
+S5,>5% concealed-material mismatch,shell[linen+wool]__sleeve_lining[viscose],1
+S5,>5% concealed-material mismatch,shell[linen]__body_lining[cotton],1
+S5,>5% concealed-material mismatch,shell[lyocell+nylon]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[lyocell+nylon]__padding[polyester],1
+S5,>5% concealed-material mismatch,shell[lyocell+ramie]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[metallised_fibre+polyester]__lining[elastane],1
+S5,>5% concealed-material mismatch,shell[modacrylic+polyester]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[modal+nylon]__lining[polyester],1
+S5,>5% concealed-material mismatch,shell[nylon+polyester]__padding[down],1
+S5,>5% concealed-material mismatch,shell[nylon+polyester]__padding[reprocessed down],1
+S5,>5% concealed-material mismatch,shell[nylon+polypropylene+wool]__lining[viscose],1
+S5,>5% concealed-material mismatch,shell[nylon+unspecified_material+wool]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[nylon+unspecified_material+wool]__padding[polyester],1
+S5,>5% concealed-material mismatch,shell[nylon+wool]__padding[polyester],1
+S5,>5% concealed-material mismatch,shell[nylon]__inner_layer[elastane],1
+S5,>5% concealed-material mismatch,shell[nylon]__skirt_lining[polyester],1
+S5,>5% concealed-material mismatch,shell[polyester+unspecified_material+wool]__body_lining[viscose],1
+S5,>5% concealed-material mismatch,shell[polyester+wool]__lining[lyocell],1
+S5,>5% concealed-material mismatch,shell[polyester]__lining[metallised_fibre],1
+S5,>5% concealed-material mismatch,shell[polyester]__padding[acrylic],1
+S5,>5% concealed-material mismatch,shell[polyester]__padding[down],1
+S5,>5% concealed-material mismatch,shell[polyurethane]__lining[paper],1
+S5,>5% concealed-material mismatch,shell[viscose]__inner_layer[polyester],1
+S5,>5% concealed-material mismatch,shell[viscose]__lining[lyocell],1
+S5,>5% concealed-material mismatch,shell[wool]__lining[acetate],1
+S5,>5% concealed-material mismatch,shell[wool]__lining[cotton],1
+S5,>5% concealed-material mismatch,shell[wool]__padding[polyester],1
+S5,Any hidden layer,shell__lining,7064
+S5,Any hidden layer,shell__padding,566
+S5,Any hidden layer,main__lining,230
+S5,Any hidden layer,shell__hood_lining,199
+S5,Any hidden layer,coating__lining,136
+S5,Any hidden layer,shell__cup_lining,124
+S5,Any hidden layer,shell__inner_layer,98
+S5,Any hidden layer,face__filling,94
+S5,Any hidden layer,lining__lining,74
+S5,Any hidden layer,shell__body_lining,66
+S5,Any hidden layer,body__lining,56
+S5,Any hidden layer,body__inner_layer,46
+S5,Any hidden layer,shell__filling,43
+S5,Any hidden layer,body__petticoat,37
+S5,Any hidden layer,shell__sleeve_lining,37
+S5,Any hidden layer,shell__body_filling,32
+S5,Any hidden layer,main__padding,30
+S5,Any hidden layer,body__cup_lining,21
+S5,Any hidden layer,body__hood_lining,19
+S5,Any hidden layer,coating__padding,16
+S5,Any hidden layer,face__padding,13
+S5,Any hidden layer,padding__padding,13
+S5,Any hidden layer,pocket_lining__hood_lining,13
+S5,Any hidden layer,front_panel__cup_lining,12
+S5,Any hidden layer,face__body_filling,10
+S5,Any hidden layer,main__cup_lining,8
+S5,Any hidden layer,base_fabric__lining,7
+S5,Any hidden layer,hood_lining__hood_lining,7
+S5,Any hidden layer,lace__lining,7
+S5,Any hidden layer,shell__upper_body_filling,7
+S5,Any hidden layer,body__interlining,6
+S5,Any hidden layer,skirt__inner_pants,6
+S5,Any hidden layer,body__inner_pants,4
+S5,Any hidden layer,body_lining__body_lining,4
+S5,Any hidden layer,front_panel__lining,4
+S5,Any hidden layer,shell__front_body_lining,4
+S5,Any hidden layer,outer_layer__padding,3
+S5,Any hidden layer,filling__filling,2
+S5,Any hidden layer,main__body_lining,2
+S5,Any hidden layer,main__inner_layer,2
+S5,Any hidden layer,outer_layer__inner_layer,2
+S5,Any hidden layer,shell__inner_pants,2
+S5,Any hidden layer,top_panel__hood_lining,2
+S5,Any hidden layer,upper__inner_layer,2
+S5,Any hidden layer,face__lining,1
+S5,Any hidden layer,main__hood_lining,1
+S5,Any hidden layer,shell__skirt_lining,1
+S5,Dominant-material mismatch,shell[nylon]__lining[polyester],747
+S5,Dominant-material mismatch,shell[cotton]__lining[polyester],495
+S5,Dominant-material mismatch,shell[nylon]__lining[cotton],493
+S5,Dominant-material mismatch,shell[viscose]__lining[polyester],336
+S5,Dominant-material mismatch,shell[polyester]__lining[nylon],142
+S5,Dominant-material mismatch,shell[nylon]__padding[polyester],140
+S5,Dominant-material mismatch,coating[polyurethane]__lining[polyester],123
+S5,Dominant-material mismatch,shell[polyester]__lining[cotton],122
+S5,Dominant-material mismatch,shell[viscose]__lining[cotton],112
+S5,Dominant-material mismatch,shell[nylon]__cup_lining[polyester],100
+S5,Dominant-material mismatch,shell[cotton]__cup_lining[polyester],70
+S5,Dominant-material mismatch,shell[cotton]__padding[polyester],62
+S5,Dominant-material mismatch,shell[lyocell]__lining[polyester],60
+S5,Dominant-material mismatch,face[nylon]__filling[polyester],56
+S5,Dominant-material mismatch,shell[wool]__lining[polyester],55
+S5,Dominant-material mismatch,shell[wool]__lining[viscose],47
+S5,Dominant-material mismatch,shell[linen]__lining[cotton],45
+S5,Dominant-material mismatch,shell[linen]__lining[polyester],43
+S5,Dominant-material mismatch,body[nylon]__cup_lining[polyester],33
+S5,Dominant-material mismatch,shell[cotton]__sleeve_lining[polyester],32
+S5,Dominant-material mismatch,shell[polyester]__lining[viscose],31
+S5,Dominant-material mismatch,shell[lyocell]__lining[cotton],29
+S5,Dominant-material mismatch,main[nylon]__lining[polyester],25
+S5,Dominant-material mismatch,shell[cotton]__lining[viscose],21
+S5,Dominant-material mismatch,shell[nylon]__padding[reprocessed down],18
+S5,Dominant-material mismatch,shell[polyester]__hood_lining[cotton],18
+S5,Dominant-material mismatch,coating[polyurethane]__padding[polyester],16
+S5,Dominant-material mismatch,main[viscose]__lining[polyester],16
+S5,Dominant-material mismatch,shell[polyester]__body_filling[down],16
+S5,Dominant-material mismatch,main[cotton]__lining[polyester],15
+S5,Dominant-material mismatch,shell[polyester]__lining[elastane],15
+S5,Dominant-material mismatch,main[polyester]__lining[cotton],14
+S5,Dominant-material mismatch,shell[cotton]__filling[polyester],14
+S5,Dominant-material mismatch,shell[nylon]__filling[polyester],14
+S5,Dominant-material mismatch,shell[modacrylic]__lining[polyester],13
+S5,Dominant-material mismatch,shell[nylon]__inner_layer[polyester],13
+S5,Dominant-material mismatch,shell[nylon]__lining[elastane],13
+S5,Dominant-material mismatch,body[cotton]__cup_lining[polyester],12
+S5,Dominant-material mismatch,body[viscose]__petticoat[polyester],12
+S5,Dominant-material mismatch,front_panel[nylon]__cup_lining[polyester],12
+S5,Dominant-material mismatch,main[nylon]__padding[polyester],11
+S5,Dominant-material mismatch,shell[lamb leather]__lining[viscose],11
+S5,Dominant-material mismatch,shell[cotton]__body_lining[polyester],10
+S5,Dominant-material mismatch,shell[cotton]__inner_layer[polyester],10
+S5,Dominant-material mismatch,shell[linen]__body_lining[polyester],10
+S5,Dominant-material mismatch,shell[polyester]__padding[reprocessed down],10
+S5,Dominant-material mismatch,shell[leather]__lining[polyester],9
+S5,Dominant-material mismatch,shell[sheep leather]__lining[viscose],9
+S5,Dominant-material mismatch,body[nylon]__lining[polyester],8
+S5,Dominant-material mismatch,main[nylon]__cup_lining[polyester],8
+S5,Dominant-material mismatch,shell[leather]__lining[viscose],8
+S5,Dominant-material mismatch,shell[modal]__lining[polyester],8
+S5,Dominant-material mismatch,shell[wool]__lining[cotton],8
+S5,Dominant-material mismatch,body[cotton]__lining[nylon],7
+S5,Dominant-material mismatch,face[polyester]__lining[nylon],7
+S5,Dominant-material mismatch,lace[nylon]__lining[cotton],7
+S5,Dominant-material mismatch,shell[polyester]__upper_body_filling[down - recycled down],7
+S5,Dominant-material mismatch,main[nylon]__lining[cotton],6
+S5,Dominant-material mismatch,shell[cotton]__hood_lining[polyester],6
+S5,Dominant-material mismatch,shell[lyocell]__lining[viscose],6
+S5,Dominant-material mismatch,main[wool]__lining[cotton],5
+S5,Dominant-material mismatch,padding[reprocessed down]__lining[nylon],5
+S5,Dominant-material mismatch,shell[cow leather]__lining[viscose],5
+S5,Dominant-material mismatch,shell[linen]__lining[viscose],5
+S5,Dominant-material mismatch,shell[polyester]__filling[down],5
+S5,Dominant-material mismatch,shell[silk]__lining[viscose],5
+S5,Dominant-material mismatch,shell[viscose]__inner_layer[polyester],5
+S5,Dominant-material mismatch,shell[viscose]__lining[nylon],5
+S5,Dominant-material mismatch,body[viscose]__lining[nylon],4
+S5,Dominant-material mismatch,face[cotton]__filling[polyester],4
+S5,Dominant-material mismatch,face[nylon]__body_filling[down],4
+S5,Dominant-material mismatch,main[nylon]__padding[reprocessed down],4
+S5,Dominant-material mismatch,main[wool]__lining[acetate],4
+S5,Dominant-material mismatch,shell[acrylic]__front_body_lining[polyester],4
+S5,Dominant-material mismatch,shell[elastane]__cup_lining[polyester],4
+S5,Dominant-material mismatch,shell[elastane]__lining[nylon],4
+S5,Dominant-material mismatch,shell[elastane]__lining[polyester],4
+S5,Dominant-material mismatch,shell[elastomultiester]__body_filling[down],4
+S5,Dominant-material mismatch,shell[goat suede]__lining[polyester],4
+S5,Dominant-material mismatch,shell[lyocell]__sleeve_lining[polyester],4
+S5,Dominant-material mismatch,shell[nylon]__body_lining[polyester],4
+S5,Dominant-material mismatch,shell[nylon]__filling[down],4
+S5,Dominant-material mismatch,shell[nylon]__lining[viscose],4
+S5,Dominant-material mismatch,shell[polyester]__body_lining[cotton],4
+S5,Dominant-material mismatch,shell[polyester]__cup_lining[nylon],4
+S5,Dominant-material mismatch,shell[polyester]__inner_layer[nylon],4
+S5,Dominant-material mismatch,shell[polyester]__lining[acetate],4
+S5,Dominant-material mismatch,shell[sheep leather]__lining[cotton],4
+S5,Dominant-material mismatch,shell[suede]__lining[polyester],4
+S5,Dominant-material mismatch,shell[viscose]__sleeve_lining[polyester],4
+S5,Dominant-material mismatch,shell[wool]__body_lining[polyester],4
+S5,Dominant-material mismatch,shell[wool]__sleeve_lining[polyester],4
+S5,Dominant-material mismatch,body[nylon]__inner_pants[polyester],3
+S5,Dominant-material mismatch,main[cotton]__padding[polyester],3
+S5,Dominant-material mismatch,main[leather]__lining[viscose],3
+S5,Dominant-material mismatch,main[polyester]__lining[acetate],3
+S5,Dominant-material mismatch,shell[cotton]__body_lining[nylon],3
+S5,Dominant-material mismatch,shell[cow leather]__lining[polyester],3
+S5,Dominant-material mismatch,shell[goat leather]__lining[polyester],3
+S5,Dominant-material mismatch,shell[goat suede]__lining[viscose],3
+S5,Dominant-material mismatch,shell[linen]__sleeve_lining[polyester],3
+S5,Dominant-material mismatch,shell[modal]__lining[cotton],3
+S5,Dominant-material mismatch,shell[nylon]__body_filling[down],3
+S5,Dominant-material mismatch,shell[nylon]__padding[down],3
+S5,Dominant-material mismatch,shell[polyurethane]__lining[polyester],3
+S5,Dominant-material mismatch,shell[ramie]__lining[cotton],3
+S5,Dominant-material mismatch,shell[sheep leather]__lining[polyester],3
+S5,Dominant-material mismatch,shell[wool]__padding[polyester],3
+S5,Dominant-material mismatch,coating[polyurethane]__lining[cotton],2
+S5,Dominant-material mismatch,main[cotton]__lining[viscose],2
+S5,Dominant-material mismatch,main[linen]__lining[cotton],2
+S5,Dominant-material mismatch,main[linen]__lining[polyester],2
+S5,Dominant-material mismatch,main[polyester]__lining[nylon],2
+S5,Dominant-material mismatch,main[polyester]__lining[viscose],2
+S5,Dominant-material mismatch,main[polyester]__padding[down],2
+S5,Dominant-material mismatch,main[viscose]__lining[cotton],2
+S5,Dominant-material mismatch,main[wool]__body_lining[viscose],2
+S5,Dominant-material mismatch,main[wool]__lining[viscose],2
+S5,Dominant-material mismatch,outer_layer[polyester]__inner_layer[nylon],2
+S5,Dominant-material mismatch,outer_layer[wool]__inner_layer[cotton],2
+S5,Dominant-material mismatch,shell[acrylic]__lining[cotton],2
+S5,Dominant-material mismatch,shell[acrylic]__lining[polyester],2
+S5,Dominant-material mismatch,shell[cotton]__inner_pants[polyester],2
+S5,Dominant-material mismatch,shell[cotton]__lining[elastane],2
+S5,Dominant-material mismatch,shell[lamb leather]__lining[cotton],2
+S5,Dominant-material mismatch,shell[polyester]__inner_layer[viscose],2
+S5,Dominant-material mismatch,shell[polyester]__padding[nylon],2
+S5,Dominant-material mismatch,shell[polyester]__sleeve_lining[cotton],2
+S5,Dominant-material mismatch,shell[suede]__lining[viscose],2
+S5,Dominant-material mismatch,shell[wool]__lining[acetate],2
+S5,Dominant-material mismatch,upper[cotton]__inner_layer[polyester],2
+S5,Dominant-material mismatch,base_fabric[polyester]__lining[cotton],1
+S5,Dominant-material mismatch,face[nylon]__padding[polyester],1
+S5,Dominant-material mismatch,face[polyester]__padding[reprocessed down],1
+S5,Dominant-material mismatch,main[acetate]__padding[polyester],1
+S5,Dominant-material mismatch,main[cotton]__cup_lining[nylon],1
+S5,Dominant-material mismatch,main[cotton]__cup_lining[polyester],1
+S5,Dominant-material mismatch,main[cotton]__inner_layer[polyester],1
+S5,Dominant-material mismatch,main[modal]__lining[polyester],1
+S5,Dominant-material mismatch,main[nylon]__lining[viscose],1
+S5,Dominant-material mismatch,main[polyester]__inner_layer[rubber],1
+S5,Dominant-material mismatch,main[polyester]__padding[reprocessed down],1
+S5,Dominant-material mismatch,main[viscose]__lining[lyocell],1
+S5,Dominant-material mismatch,main[wool]__inner_layer[viscose],1
+S5,Dominant-material mismatch,outer_layer[nylon]__padding[down],1
+S5,Dominant-material mismatch,shell[acetate]__lining[cotton],1
+S5,Dominant-material mismatch,shell[acetate]__lining[polyester],1
+S5,Dominant-material mismatch,shell[cotton]__body_lining[lyocell],1
+S5,Dominant-material mismatch,shell[cotton]__cup_lining[nylon],1
+S5,Dominant-material mismatch,shell[cotton]__lining[nylon],1
+S5,Dominant-material mismatch,shell[cotton]__lining[wool],1
+S5,Dominant-material mismatch,shell[cotton]__padding[polyurethane],1
+S5,Dominant-material mismatch,shell[cotton]__sleeve_lining[viscose],1
+S5,Dominant-material mismatch,shell[lamb leather]__lining[polyester],1
+S5,Dominant-material mismatch,shell[linen]__body_lining[cotton],1
+S5,Dominant-material mismatch,shell[linen]__lining[acetate],1
+S5,Dominant-material mismatch,shell[linen]__padding[polyester],1
+S5,Dominant-material mismatch,shell[lyocell]__body_lining[polyester],1
+S5,Dominant-material mismatch,shell[lyocell]__inner_layer[viscose],1
+S5,Dominant-material mismatch,shell[lyocell]__padding[polyester],1
+S5,Dominant-material mismatch,shell[modacrylic]__lining[cotton],1
+S5,Dominant-material mismatch,shell[nylon]__cup_lining[polyester resin],1
+S5,Dominant-material mismatch,shell[nylon]__padding[polyurethane],1
+S5,Dominant-material mismatch,shell[nylon]__skirt_lining[polyester],1
+S5,Dominant-material mismatch,shell[polyester]__cup_lining[cotton],1
+S5,Dominant-material mismatch,shell[polyester]__inner_layer[elastane],1
+S5,Dominant-material mismatch,shell[polyester]__lining[rubber],1
+S5,Dominant-material mismatch,shell[polyester]__padding[acrylic],1
+S5,Dominant-material mismatch,shell[polyester]__padding[down],1
+S5,Dominant-material mismatch,shell[polyurethane]__lining[paper],1
+S5,Dominant-material mismatch,shell[viscose]__lining[acetate],1
+S5,Dominant-material mismatch,shell[viscose]__lining[lyocell],1
+S5,Dominant-material mismatch,shell[wool]__lining[lyocell],1
+S5,Dominant-material mismatch,shell[wool]__lining[polypropylene],1
+S5,Dominant-material mismatch,shell[wool]__sleeve_lining[viscose],1

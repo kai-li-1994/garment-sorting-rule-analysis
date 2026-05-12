@@ -1,0 +1,276 @@
+﻿rule,scenario,parent_category,detail_category,n
+S1,Baseline library,tops,sweater_cardigan,2368
+S1,Baseline library,bottoms,trousers,2206
+S1,Baseline library,overall,dresses,1615
+S1,Baseline library,underwear,socks_hosiery,1573
+S1,Baseline library,tops,shirt_blouse,1460
+S1,Baseline library,tops,tshirt_polo,956
+S1,Baseline library,tops,outerwear_jacket,861
+S1,Baseline library,underwear,underwear_bottoms,846
+S1,Baseline library,bottoms,jeans,734
+S1,Baseline library,bottoms,skirts,644
+S1,Baseline library,underwear,swimwear,619
+S1,Baseline library,underwear,bras_lingerie,590
+S1,Baseline library,bottoms,shorts,532
+S1,Baseline library,tops,tank_camisole_vest,312
+S1,Baseline library,tops,top_generic,311
+S1,Baseline library,bottoms,leggings,274
+S1,Baseline library,tops,sweatshirt_hoodie,245
+S1,Baseline library,overall,sleepwear_homewear,242
+S1,Baseline library,tops,outerwear_coat,236
+S1,Baseline library,tops,outerwear_gilet,216
+S1,Baseline library,overall,set,206
+S1,Baseline library,bottoms,joggers,177
+S1,Baseline library,overall,jumpsuits_overalls,80
+S1,Extended library,tops,sweater_cardigan,2303
+S1,Extended library,bottoms,trousers,1966
+S1,Extended library,underwear,socks_hosiery,1451
+S1,Extended library,overall,dresses,1422
+S1,Extended library,tops,shirt_blouse,994
+S1,Extended library,tops,tshirt_polo,729
+S1,Extended library,bottoms,jeans,692
+S1,Extended library,tops,outerwear_jacket,649
+S1,Extended library,bottoms,skirts,546
+S1,Extended library,bottoms,shorts,417
+S1,Extended library,tops,top_generic,271
+S1,Extended library,tops,tank_camisole_vest,256
+S1,Extended library,underwear,underwear_bottoms,227
+S1,Extended library,tops,sweatshirt_hoodie,226
+S1,Extended library,overall,sleepwear_homewear,206
+S1,Extended library,tops,outerwear_gilet,190
+S1,Extended library,overall,set,181
+S1,Extended library,bottoms,leggings,178
+S1,Extended library,bottoms,joggers,144
+S1,Extended library,tops,outerwear_coat,130
+S1,Extended library,underwear,bras_lingerie,109
+S1,Extended library,overall,jumpsuits_overalls,65
+S1,Extended library,underwear,swimwear,61
+S1,Restricted library,bottoms,trousers,2520
+S1,Restricted library,tops,sweater_cardigan,2394
+S1,Restricted library,overall,dresses,1834
+S1,Restricted library,tops,tshirt_polo,1726
+S1,Restricted library,tops,shirt_blouse,1579
+S1,Restricted library,underwear,socks_hosiery,1577
+S1,Restricted library,underwear,underwear_bottoms,1472
+S1,Restricted library,bottoms,jeans,1193
+S1,Restricted library,tops,outerwear_jacket,916
+S1,Restricted library,bottoms,leggings,710
+S1,Restricted library,bottoms,shorts,709
+S1,Restricted library,underwear,bras_lingerie,708
+S1,Restricted library,bottoms,skirts,697
+S1,Restricted library,underwear,swimwear,623
+S1,Restricted library,tops,tank_camisole_vest,492
+S1,Restricted library,tops,top_generic,397
+S1,Restricted library,overall,set,364
+S1,Restricted library,overall,sleepwear_homewear,303
+S1,Restricted library,tops,sweatshirt_hoodie,273
+S1,Restricted library,tops,outerwear_coat,236
+S1,Restricted library,tops,outerwear_gilet,219
+S1,Restricted library,bottoms,joggers,197
+S1,Restricted library,overall,jumpsuits_overalls,96
+S2,Fixed,tops,sweater_cardigan,1716
+S2,Fixed,underwear,socks_hosiery,1450
+S2,Fixed,bottoms,trousers,1389
+S2,Fixed,overall,dresses,783
+S2,Fixed,bottoms,jeans,583
+S2,Fixed,tops,tshirt_polo,562
+S2,Fixed,tops,shirt_blouse,411
+S2,Fixed,tops,outerwear_jacket,395
+S2,Fixed,bottoms,skirts,340
+S2,Fixed,underwear,underwear_bottoms,210
+S2,Fixed,tops,sweatshirt_hoodie,205
+S2,Fixed,tops,tank_camisole_vest,204
+S2,Fixed,bottoms,shorts,167
+S2,Fixed,tops,top_generic,158
+S2,Fixed,overall,sleepwear_homewear,151
+S2,Fixed,bottoms,leggings,149
+S2,Fixed,tops,outerwear_gilet,137
+S2,Fixed,overall,set,125
+S2,Fixed,bottoms,joggers,118
+S2,Fixed,underwear,bras_lingerie,105
+S2,Fixed,tops,outerwear_coat,67
+S2,Fixed,underwear,swimwear,60
+S2,Fixed,overall,jumpsuits_overalls,19
+S3,10% threshold,bottoms,trousers,1831
+S3,10% threshold,tops,sweater_cardigan,1585
+S3,10% threshold,underwear,socks_hosiery,1552
+S3,10% threshold,tops,tshirt_polo,1526
+S3,10% threshold,overall,dresses,1292
+S3,10% threshold,bottoms,jeans,1045
+S3,10% threshold,underwear,underwear_bottoms,962
+S3,10% threshold,tops,shirt_blouse,623
+S3,10% threshold,bottoms,leggings,593
+S3,10% threshold,tops,outerwear_jacket,522
+S3,10% threshold,tops,tank_camisole_vest,470
+S3,10% threshold,bottoms,skirts,455
+S3,10% threshold,tops,top_generic,418
+S3,10% threshold,bottoms,shorts,339
+S3,10% threshold,overall,set,292
+S3,10% threshold,underwear,swimwear,290
+S3,10% threshold,overall,sleepwear_homewear,257
+S3,10% threshold,underwear,bras_lingerie,238
+S3,10% threshold,tops,sweatshirt_hoodie,230
+S3,10% threshold,tops,outerwear_gilet,173
+S3,10% threshold,bottoms,joggers,169
+S3,10% threshold,tops,outerwear_coat,70
+S3,10% threshold,overall,jumpsuits_overalls,52
+S3,3% threshold,underwear,socks_hosiery,1018
+S3,3% threshold,bottoms,jeans,988
+S3,3% threshold,bottoms,trousers,651
+S3,3% threshold,overall,dresses,304
+S3,3% threshold,tops,sweater_cardigan,245
+S3,3% threshold,tops,outerwear_jacket,236
+S3,3% threshold,tops,shirt_blouse,167
+S3,3% threshold,bottoms,shorts,165
+S3,3% threshold,bottoms,skirts,160
+S3,3% threshold,tops,tshirt_polo,102
+S3,3% threshold,tops,top_generic,71
+S3,3% threshold,tops,outerwear_gilet,56
+S3,3% threshold,tops,tank_camisole_vest,55
+S3,3% threshold,bottoms,joggers,44
+S3,3% threshold,overall,set,40
+S3,3% threshold,bottoms,leggings,33
+S3,3% threshold,overall,sleepwear_homewear,27
+S3,3% threshold,overall,jumpsuits_overalls,25
+S3,3% threshold,tops,sweatshirt_hoodie,25
+S3,3% threshold,tops,outerwear_coat,23
+S3,3% threshold,underwear,underwear_bottoms,19
+S3,3% threshold,underwear,bras_lingerie,7
+S3,3% threshold,underwear,swimwear,2
+S3,5% threshold,underwear,socks_hosiery,1449
+S3,5% threshold,bottoms,trousers,1253
+S3,5% threshold,tops,sweater_cardigan,1047
+S3,5% threshold,bottoms,jeans,1003
+S3,5% threshold,overall,dresses,575
+S3,5% threshold,tops,tshirt_polo,415
+S3,5% threshold,tops,outerwear_jacket,359
+S3,5% threshold,tops,shirt_blouse,330
+S3,5% threshold,bottoms,skirts,281
+S3,5% threshold,bottoms,shorts,219
+S3,5% threshold,tops,top_generic,170
+S3,5% threshold,tops,tank_camisole_vest,139
+S3,5% threshold,underwear,swimwear,138
+S3,5% threshold,overall,sleepwear_homewear,128
+S3,5% threshold,overall,set,123
+S3,5% threshold,tops,outerwear_gilet,119
+S3,5% threshold,tops,sweatshirt_hoodie,96
+S3,5% threshold,bottoms,joggers,84
+S3,5% threshold,bottoms,leggings,82
+S3,5% threshold,underwear,underwear_bottoms,81
+S3,5% threshold,underwear,bras_lingerie,70
+S3,5% threshold,tops,outerwear_coat,35
+S3,5% threshold,overall,jumpsuits_overalls,33
+S4,Contains 'black',overall,dresses,1113
+S4,Contains 'black',bottoms,trousers,938
+S4,Contains 'black',tops,tshirt_polo,895
+S4,Contains 'black',tops,outerwear_jacket,593
+S4,Contains 'black',tops,sweater_cardigan,500
+S4,Contains 'black',tops,shirt_blouse,499
+S4,Contains 'black',underwear,underwear_bottoms,435
+S4,Contains 'black',underwear,socks_hosiery,422
+S4,Contains 'black',bottoms,skirts,382
+S4,Contains 'black',bottoms,jeans,332
+S4,Contains 'black',bottoms,shorts,325
+S4,Contains 'black',underwear,swimwear,260
+S4,Contains 'black',tops,sweatshirt_hoodie,256
+S4,Contains 'black',bottoms,leggings,243
+S4,Contains 'black',tops,tank_camisole_vest,242
+S4,Contains 'black',underwear,bras_lingerie,234
+S4,Contains 'black',tops,top_generic,210
+S4,Contains 'black',bottoms,joggers,181
+S4,Contains 'black',tops,outerwear_gilet,132
+S4,Contains 'black',tops,outerwear_coat,131
+S4,Contains 'black',overall,set,97
+S4,Contains 'black',overall,sleepwear_homewear,82
+S4,Contains 'black',overall,jumpsuits_overalls,53
+S4,Exact black,bottoms,trousers,839
+S4,Exact black,overall,dresses,829
+S4,Exact black,tops,tshirt_polo,652
+S4,Exact black,tops,outerwear_jacket,508
+S4,Exact black,tops,shirt_blouse,375
+S4,Exact black,tops,sweater_cardigan,369
+S4,Exact black,bottoms,skirts,314
+S4,Exact black,underwear,underwear_bottoms,314
+S4,Exact black,underwear,socks_hosiery,290
+S4,Exact black,bottoms,shorts,244
+S4,Exact black,bottoms,leggings,202
+S4,Exact black,tops,tank_camisole_vest,198
+S4,Exact black,underwear,swimwear,194
+S4,Exact black,underwear,bras_lingerie,179
+S4,Exact black,bottoms,jeans,176
+S4,Exact black,tops,top_generic,175
+S4,Exact black,bottoms,joggers,144
+S4,Exact black,tops,sweatshirt_hoodie,140
+S4,Exact black,tops,outerwear_coat,122
+S4,Exact black,tops,outerwear_gilet,120
+S4,Exact black,overall,sleepwear_homewear,52
+S4,Exact black,overall,set,40
+S4,Exact black,overall,jumpsuits_overalls,39
+S5,>5% concealed-material mismatch,tops,outerwear_jacket,886
+S5,>5% concealed-material mismatch,underwear,swimwear,534
+S5,>5% concealed-material mismatch,underwear,underwear_bottoms,512
+S5,>5% concealed-material mismatch,overall,dresses,477
+S5,>5% concealed-material mismatch,underwear,bras_lingerie,432
+S5,>5% concealed-material mismatch,bottoms,skirts,225
+S5,>5% concealed-material mismatch,bottoms,trousers,171
+S5,>5% concealed-material mismatch,tops,outerwear_coat,167
+S5,>5% concealed-material mismatch,tops,outerwear_gilet,133
+S5,>5% concealed-material mismatch,bottoms,shorts,78
+S5,>5% concealed-material mismatch,tops,shirt_blouse,45
+S5,>5% concealed-material mismatch,tops,sweatshirt_hoodie,44
+S5,>5% concealed-material mismatch,bottoms,jeans,39
+S5,>5% concealed-material mismatch,tops,tank_camisole_vest,33
+S5,>5% concealed-material mismatch,overall,jumpsuits_overalls,24
+S5,>5% concealed-material mismatch,tops,top_generic,20
+S5,>5% concealed-material mismatch,overall,set,14
+S5,>5% concealed-material mismatch,bottoms,leggings,10
+S5,>5% concealed-material mismatch,tops,tshirt_polo,9
+S5,>5% concealed-material mismatch,bottoms,joggers,8
+S5,>5% concealed-material mismatch,tops,sweater_cardigan,8
+S5,>5% concealed-material mismatch,overall,sleepwear_homewear,5
+S5,>5% concealed-material mismatch,underwear,socks_hosiery,4
+S5,Any hidden layer,tops,outerwear_jacket,1916
+S5,Any hidden layer,overall,dresses,1491
+S5,Any hidden layer,underwear,swimwear,1121
+S5,Any hidden layer,underwear,underwear_bottoms,909
+S5,Any hidden layer,underwear,bras_lingerie,642
+S5,Any hidden layer,bottoms,skirts,563
+S5,Any hidden layer,tops,outerwear_coat,434
+S5,Any hidden layer,bottoms,trousers,394
+S5,Any hidden layer,tops,outerwear_gilet,350
+S5,Any hidden layer,tops,sweatshirt_hoodie,315
+S5,Any hidden layer,bottoms,shorts,175
+S5,Any hidden layer,tops,shirt_blouse,140
+S5,Any hidden layer,overall,set,106
+S5,Any hidden layer,tops,tank_camisole_vest,105
+S5,Any hidden layer,tops,top_generic,98
+S5,Any hidden layer,overall,jumpsuits_overalls,84
+S5,Any hidden layer,tops,tshirt_polo,75
+S5,Any hidden layer,tops,sweater_cardigan,69
+S5,Any hidden layer,bottoms,jeans,63
+S5,Any hidden layer,overall,sleepwear_homewear,38
+S5,Any hidden layer,bottoms,joggers,27
+S5,Any hidden layer,bottoms,leggings,11
+S5,Any hidden layer,underwear,socks_hosiery,7
+S5,Dominant-material mismatch,tops,outerwear_jacket,923
+S5,Dominant-material mismatch,overall,dresses,547
+S5,Dominant-material mismatch,underwear,swimwear,540
+S5,Dominant-material mismatch,underwear,underwear_bottoms,514
+S5,Dominant-material mismatch,underwear,bras_lingerie,455
+S5,Dominant-material mismatch,bottoms,skirts,245
+S5,Dominant-material mismatch,bottoms,trousers,194
+S5,Dominant-material mismatch,tops,outerwear_coat,183
+S5,Dominant-material mismatch,tops,outerwear_gilet,148
+S5,Dominant-material mismatch,bottoms,shorts,72
+S5,Dominant-material mismatch,tops,shirt_blouse,51
+S5,Dominant-material mismatch,bottoms,jeans,44
+S5,Dominant-material mismatch,tops,tank_camisole_vest,33
+S5,Dominant-material mismatch,overall,jumpsuits_overalls,30
+S5,Dominant-material mismatch,tops,top_generic,30
+S5,Dominant-material mismatch,tops,sweatshirt_hoodie,25
+S5,Dominant-material mismatch,overall,set,18
+S5,Dominant-material mismatch,bottoms,leggings,10
+S5,Dominant-material mismatch,tops,tshirt_polo,9
+S5,Dominant-material mismatch,bottoms,joggers,8
+S5,Dominant-material mismatch,tops,sweater_cardigan,6
+S5,Dominant-material mismatch,overall,sleepwear_homewear,5

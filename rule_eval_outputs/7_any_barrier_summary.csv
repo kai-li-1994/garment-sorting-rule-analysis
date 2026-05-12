@@ -1,0 +1,4 @@
+﻿summary_type,s1_scenario,s2_scenario,s3_scenario,s4_scenario,s5_scenario,n_total,n_with_any_barrier,share_with_any_barrier,n_with_no_barrier,share_with_no_barrier
+Lower-bound any-barrier,Extended library,Fixed,3% threshold,Exact black,>5% concealed-material mismatch,47522,21409,0.45050713353815075,26113,0.5494928664618492
+Baseline any-barrier,Baseline library,Fixed,5% threshold,Exact black,>5% concealed-material mismatch,47522,23908,0.5030933041538656,23614,0.49690669584613445
+Upper-bound any-barrier,Restricted library,Fixed,10% threshold,Contains 'black',Any hidden layer,47522,30432,0.640377088506376,17090,0.359622911493624
