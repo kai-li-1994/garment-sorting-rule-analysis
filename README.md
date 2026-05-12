@@ -138,6 +138,7 @@ The companion garment-variant dataset and dataset-construction workflow are arch
 This repository contains the downstream sorting-rule evaluation workflow and derived output tables:
 
 - GitHub: <https://github.com/kai-li-1994/garment-sorting-rule-analysis>
+- Zenodo: <https://doi.org/10.5281/zenodo.20145842>
 
 ## Citation
 
