@@ -26,6 +26,8 @@ The workflow applies rule-based sorting indicators to a component-normalized gar
     └── 7_rule_evaluation_summary.txt
 ```
 
+The output filenames retain the internal workflow prefix `7_` because they were generated as a later step of the broader garment-data processing pipeline. In this repository, the prefix has no analytical meaning; users should identify files by their descriptive names and by the file-use tables below.
+
 ## Input dataset
 
 This workflow uses the component-normalized garment-variant dataset developed in the companion dataset repository:
@@ -52,13 +54,30 @@ This file is not duplicated in this analysis repository because it belongs to th
 
 | File | Contents | Use in the analysis |
 |---|---|---|
-| `rule_eval_outputs/7_rule_flags_row_level.csv` | Row-level rule flags for each colour-specific garment variant, including garment metadata, selected readable composition, rule-specific violation indicators, diagnostic signatures, and any-barrier indicators. | Provides the most complete machine-readable reproducibility layer. Readers can recompute rule-level and aggregate results from this file. |
+| `rule_eval_outputs/7_rule_flags_row_level.csv` | Row-level rule flags for each colour-specific garment variant, including garment metadata, selected readable composition, rule-specific violation indicators, diagnostic signatures, and any-barrier indicators. | Main reproducibility file. Readers can recompute rule-level shares, aggregate any-barrier shares, and baseline rule-intersection patterns from this table. |
 | `rule_eval_outputs/7_rule_flags_row_level.jsonl` | Same row-level information as the CSV output, stored in JSON Lines format. | Useful for programmatic inspection where record-wise JSON is preferred. |
-| `rule_eval_outputs/7_rule_summary.csv` | Rule-level summary statistics, including total evaluated rows, number of violating variants, violation share, number of passing variants, and pass share for each rule scenario. | Supports the manuscript percentages for S1–S5 and their sensitivity specifications. |
+| `rule_eval_outputs/7_rule_summary.csv` | Rule-level summary statistics, including total evaluated rows, number of violating variants, violation share, number of passing variants, and pass share for each rule scenario. | Supports manuscript percentages for S1–S5 and their sensitivity specifications. |
 | `rule_eval_outputs/7_any_barrier_summary.csv` | Aggregate any-barrier results for lower-bound, baseline, and upper-bound rule specifications. | Supports the overall design–sorting mismatch estimates reported in Section 3.1 and Figure 2. |
-| `rule_eval_outputs/7_rule_diagnostic_material.csv` | Material- and signature-level diagnostic counts for rule violations. | Supports material-combination rankings, minor-component diagnostics, black-colour label diagnostics, and surface–hidden mismatch signatures used in the Results section and figures. |
-| `rule_eval_outputs/7_rule_diagnostic_category.csv` | Category-level diagnostic counts for rule violations. | Supports garment-category diagnostics and category-level profiles shown in the Results section and Figure 6. |
+| `rule_eval_outputs/7_rule_diagnostic_material.csv` | Material- and signature-level diagnostic counts for rule violations. | Contains the full diagnostic records behind material-combination rankings, minor-component counts, black-colour label diagnostics, and surface–hidden mismatch signatures. Several figure panels show only the most frequent entries for readability; this file contains the complete diagnostic table. |
+| `rule_eval_outputs/7_rule_diagnostic_category.csv` | Category-level diagnostic counts for rule violations. | Contains the full category-level diagnostic counts behind the category profiles reported in the Results section and Figure 6. |
 | `rule_eval_outputs/7_rule_evaluation_summary.txt` | Human-readable processing summary, including input file, total evaluated rows, brand counts, parent-category counts, rule-violation summaries, and any-barrier summaries. | Provides a quick audit summary for readers who want to verify the main numerical outputs without opening the CSV files. The CSV and JSONL files remain the authoritative machine-readable outputs. |
+
+## Which output file supports which manuscript result?
+
+| Manuscript element | What the reader may want to inspect | Main output file(s) to use |
+|---|---|---|
+| Overall dataset size, brand counts, and parent-category counts | Total evaluated rows, H&M/Uniqlo counts, and broad category counts | `rule_eval_outputs/7_rule_evaluation_summary.txt`; `rule_eval_outputs/7_rule_flags_row_level.csv` |
+| Figure 2a: rule-specific violation shares and sensitivity ranges | Full violation shares for each rule and rule specification | `rule_eval_outputs/7_rule_summary.csv`; `rule_eval_outputs/7_any_barrier_summary.csv` |
+| Figure 2b: baseline rule-intersection patterns | Full row-level rule flags needed to recompute all exact rule intersections, including patterns beyond the top ten shown in the figure | `rule_eval_outputs/7_rule_flags_row_level.csv` |
+| Figure 3a–b: S1 failure decomposition and pass/fail by fibre-count group | Row-level S1 outcomes, selected readable composition, fibre-count group, and diagnostic signatures | `rule_eval_outputs/7_rule_flags_row_level.csv` |
+| Figure 3c–d: unsupported readable compositions and more-than-two-fibre compositions | Full material-combination diagnostics for S1 and S2, including combinations not displayed in the figure | `rule_eval_outputs/7_rule_diagnostic_material.csv` |
+| Figure 4a–b: S3 minor-component diagnostics | Full list of violating minor components under each S3 threshold | `rule_eval_outputs/7_rule_diagnostic_material.csv` |
+| Figure 4c–d: exact-black and contains-black diagnostics | Full colour-label diagnostics for S4, including labels not shown in the figure | `rule_eval_outputs/7_rule_diagnostic_material.csv` |
+| Figure 5a: S5 scenario comparison | Full S5 violation shares under dominant-material mismatch, >5 wt% concealed-material mismatch, and any-hidden-layer specifications | `rule_eval_outputs/7_rule_summary.csv` |
+| Figure 5b: surface–hidden mismatch signatures | Full list of S5 surface–hidden material mismatch signatures, beyond the top flows shown in the figure | `rule_eval_outputs/7_rule_diagnostic_material.csv` |
+| Figure 5c: concealed component types | Full concealed-component diagnostics contributing to S5 violations | `rule_eval_outputs/7_rule_diagnostic_material.csv` |
+| Figure 6: category-level barrier profiles | Full category-level diagnostic counts by rule, scenario, parent category, and detail category; row-level flags can be used to recompute category-level shares | `rule_eval_outputs/7_rule_diagnostic_category.csv`; `rule_eval_outputs/7_rule_flags_row_level.csv` |
+| Recomputing all manuscript percentages | Row-level rule flags and summary tables | `rule_eval_outputs/7_rule_flags_row_level.csv`; `rule_eval_outputs/7_rule_summary.csv`; `rule_eval_outputs/7_any_barrier_summary.csv` |
 
 ## Rule indicators
 
@@ -85,6 +104,30 @@ The workflow implements baseline and alternative rule specifications for sensiti
 | S5 | Concealed material >5 wt% absent from surface reference | Dominant-material mismatch; any hidden layer |
 
 The manuscript uses the baseline specification as the central estimate and reports lower- and upper-bound any-barrier estimates to show the sensitivity of the aggregate design–sorting mismatch result.
+
+## Dependencies
+
+The workflow was written in Python and uses the following external packages:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+
+Standard-library modules used by the scripts include `json`, `pathlib`, `collections`, `re`, and `textwrap`.
+
+Install the required external packages with:
+
+```bash
+pip install -r requirements.txt
+```
+
+A minimal `requirements.txt` for this repository is:
+
+```text
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+```
 
 ## How to rerun the workflow
 
@@ -146,13 +189,13 @@ If using these scripts or derived output tables, please cite the associated manu
 
 Please also cite the companion dataset release when using the input garment-variant dataset:
 
-Li, K., & Walther, G. (2026). *Harmonized garment-variant dataset for textile sorting and fibre-to-fibre recycling analysis* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20006389
+Li, K., & Walther, G. (2026). *Harmonized garment-variant dataset for textile sorting and fibre-to-fibre recycling analysis* [Dataset]. Zenodo. <https://doi.org/10.5281/zenodo.20006389>
 
 ## Acknowledgements
 
 This research was supported by the Werner Siemens Foundation through the WSS Research Centre Catalaix, a Project of the Century funded by the Werner Siemens Foundation.
 
-The dataset and analysis workflow were prepared by [Dr. Kai Li](https://www.om.rwth-aachen.de/gruppenleitung/kai-li/) and [Prof. Grit Walther](https://www.om.rwth-aachen.de/lehrstuhlleitung/prof-dr-grit-walther/?setlang=en) at the Chair of Operations Management, RWTH Aachen Universityy.
+The dataset and analysis workflow were prepared by [Dr. Kai Li](https://www.om.rwth-aachen.de/gruppenleitung/kai-li/) and [Prof. Grit Walther](https://www.om.rwth-aachen.de/lehrstuhlleitung/prof-dr-grit-walther/?setlang=en) at the Chair of Operations Management, RWTH Aachen University.
 
 ## License
 
